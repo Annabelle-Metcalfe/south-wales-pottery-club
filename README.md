@@ -1,39 +1,54 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# South Wales Pottery Club
 
-Welcome,
+## UX
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+### Project Goals
+* The goal of this project is to create a user-centric web site for an up and coming pottery business in South Wales.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+### User Goals
 
-## Codeanywhere Reminders
+Users of the site will be able to:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+* Browse different classes and events
+* Find class and event timetables
+* Find the location of the classes
+* Find contact information for the business
+* View gallery of events and work
+* View information on the benefits of pottery for wellbeing
 
-`python3 -m http.server`
+### Business Goals
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* To attract customers and build membership
+*
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### User Stories
 
-`http_server`
+### Wireframes
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Features
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Current Features
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Future Features
 
-To log into the Heroku toolbelt CLI:
+* Book classes online
+* Purchase memberships online
+* Create an online shop to sell student's work
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Technologies Used
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Testing
 
----
+## Deployment
 
-Happy coding!
+### How to run project locally
+
+## Credits
+
+### Content
+
+### Media
+
+### Code
+
+### Acknowledgements
