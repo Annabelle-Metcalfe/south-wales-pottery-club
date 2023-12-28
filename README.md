@@ -47,11 +47,12 @@ Users of the site will be able to:
   * Class types & timetables
   * Contact & location information
   * Gallery
-* Children's classes page
-* Adult's begginner classes page
-* Adult's improver classes page
-* Wellbeing classes page
-* Events page
+* Class sub navigation:
+  * Children's classes page
+  * Adult's begginner classes page
+  * Adult's improver classes page
+  * Wellbeing classes page
+  * Events page
   
 ### Future Features
 
@@ -84,6 +85,8 @@ Users of the site will be able to:
 ### Content
 
 ### Media
+
+images <https://www.pexels.com/photo/person-holding-wooden-rolling-pin-7559748/>
 
 ### Code
 
