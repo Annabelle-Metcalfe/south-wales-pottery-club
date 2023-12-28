@@ -3,6 +3,7 @@
 ## UX
 
 ### Project Goals
+
 * The goal of this project is to create a user-centric web site for an up and coming pottery business in South Wales.
 
 ### User Goals
@@ -19,9 +20,20 @@ Users of the site will be able to:
 ### Business Goals
 
 * To attract customers and build membership
-*
 
 ### User Stories
+
+* User 1 is looking for new activities to do with the kids over the school holidays
+
+* User 2 is looking for a new hobby and the opportunity to make new friends
+
+* User 3 is an intermediate potter looking to improve their skills
+
+* User 4 is looking for fun new date night ideas
+
+* User 5 is looking for a unique experience gift for a loved one
+
+* User 6 was referred by the local mental health team
 
 ### Wireframes
 
@@ -29,6 +41,18 @@ Users of the site will be able to:
 
 ### Current Features
 
+* Home page with hero image
+* Navitagion to:
+  * About section
+  * Class types & timetables
+  * Contact & location information
+  * Gallery
+* Children's classes page
+* Adult's begginner classes page
+* Adult's improver classes page
+* Wellbeing classes page
+* Events page
+  
 ### Future Features
 
 * Book classes online
@@ -37,7 +61,19 @@ Users of the site will be able to:
 
 ## Technologies Used
 
+* HTML
+* CSS
+* Git
+* Github
+* Codeanywhere/VS code
+* Bootstrap
+* Google Fonts
+* Font Awesome
+* GIMP
+
 ## Testing
+
+## Known Bugs
 
 ## Deployment
 
