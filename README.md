@@ -47,11 +47,11 @@ Home Page
 
 About Page
 
-![About page wirfeframe](assets/images/wireframes/about-page.png)
+![About page wireframe](assets/images/wireframes/about-page.png)
 
 Classes Page
 
-![Classes] page wirfeframe](assets/images/wireframes/classes-page.png)
+![Classes page wireframe](assets/images/wireframes/classes-page.png)
 
 Gallery Page
 
@@ -72,9 +72,10 @@ Contact Page
 * Home page with hero image
 * Navitagion to:
   * About section
-  * Class types & timetables
-  * Contact & location information
+  * Classes
   * Gallery
+  * Timetable
+  * Contact
 * Class sub navigation:
   * Children's classes page
   * Adult's begginner classes page
@@ -96,6 +97,7 @@ Contact Page
 * Github
 * Codeanywhere/VS code
 * Bootstrap
+* Balsamiq
 * Google Fonts
 * Font Awesome
 * GIMP
@@ -119,3 +121,6 @@ images <https://www.pexels.com/photo/person-holding-wooden-rolling-pin-7559748/>
 ### Code
 
 ### Acknowledgements
+
+Responsive background images with Bootstrap 5
+<https://www.youtube.com/watch?v=W87XNjvXiWw&t=178s>
