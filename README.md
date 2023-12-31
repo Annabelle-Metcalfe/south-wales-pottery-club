@@ -37,6 +37,34 @@ Users of the site will be able to:
 
 ### Wireframes
 
+Sitemap
+
+![Site map wireframe](assets/images/wireframes/site-map.png)
+
+Home Page
+
+![Home page wireframe](assets/images/wireframes/home-page.png)
+
+About Page
+
+![About page wirfeframe](assets/images/wireframes/about-page.png)
+
+Classes Page
+
+![Classes] page wirfeframe](assets/images/wireframes/classes-page.png)
+
+Gallery Page
+
+![Gallery page wirfeframe](assets/images/wireframes/gallery-page.png)
+
+Timetable Page
+
+![Timetable page wirfeframe](assets/images/wireframes/timetable-page.png)
+
+Contact Page
+
+![Contact page wirfeframe](assets/images/wireframes/contact-page.png)
+
 ## Features
 
 ### Current Features
