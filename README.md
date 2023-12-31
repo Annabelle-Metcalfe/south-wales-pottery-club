@@ -116,7 +116,7 @@ Contact Page
 
 ### Media
 
-images <https://www.pexels.com/photo/person-holding-wooden-rolling-pin-7559748/>
+background image <https://www.pexels.com/photo/person-holding-wooden-rolling-pin-7559748/>
 
 ### Code
 
