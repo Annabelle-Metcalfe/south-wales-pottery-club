@@ -3,6 +3,7 @@
     min-height: 100vh;
     position: relative;
     color: #fafafa;
+    background-attachment: fixed;
 }
 
 h1 {
