@@ -124,3 +124,6 @@ background image <https://www.pexels.com/photo/person-holding-wooden-rolling-pin
 
 Responsive background images with Bootstrap 5
 <https://www.youtube.com/watch?v=W87XNjvXiWw&t=178s>
+
+Bootstrap Navbar
+https://getbootstrap.com/docs/4.0/components/navbar/
