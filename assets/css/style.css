@@ -1,22 +1,33 @@
-.background-home {
-    background-size: cover;
-    min-height: 100vh;
-    color: #fafafa;
-    position: relative;
-    background-attachment: fixed;
+body {
+    font-family: 'Montserrat', sans-serif;
 }
 
-h1 {
-    font-size: 4rem;
-    font-family: 'Montserrat', sans-serif;
+.hero-image {
+    background-image: url("/assets/images/background.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    background-color: #929292;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 130%;
     color: #fafafa;
+    transform: translate(-50%, -50%);
 }
 
 .color-overlay {
-    position: absolute;
-    width: 100%;
-    height: 100%;
     background-color: rgba(0, 0, 0, .2);
+    background-size: cover;
+    top: 0;
+    left: 0;
 }
 
 @media (max-width: 768px) {
@@ -30,7 +41,6 @@ h1 {
 }
 
 nav {
-    font-family: 'Montserrat', sans-serif;
     color: #969b9e;
     padding-left: 10px;
 }
