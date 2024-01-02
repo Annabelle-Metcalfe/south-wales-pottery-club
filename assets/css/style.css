@@ -1,4 +1,4 @@
-.background-image {
+.background-home {
     background-size: cover;
     min-height: 100vh;
     color: #fafafa;
@@ -32,4 +32,5 @@ h1 {
 nav {
     font-family: 'Montserrat', sans-serif;
     color: #969b9e;
+    padding-left: 10px;
 }
