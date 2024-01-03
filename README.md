@@ -103,6 +103,7 @@ Contact Page
 * GIMP
 
 ## Testing
+03/01/23 - All social links working
 
 ## Known Bugs
 

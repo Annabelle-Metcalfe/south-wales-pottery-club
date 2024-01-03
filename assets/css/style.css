@@ -43,7 +43,6 @@ nav {
 }
 
 footer {
-    font-size: 2rem;
     background-color: #fafafa;
 }
 
@@ -51,4 +50,8 @@ footer a {
     color:#969b9e;
     padding: 5px;
     margin: 5px;
+    font-size: 2rem;
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-end;
 }
