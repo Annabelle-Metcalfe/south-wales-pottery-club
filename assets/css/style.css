@@ -5,12 +5,12 @@ body {
 .hero-image {
     background-image: url("/assets/images/background.jpg");
     background-size: cover;
-    min-height: 100vh;
+    min-height: 80vh;
     position: relative;
     background-color: #929292;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: center;
 }
 
 .hero-text {
