@@ -44,14 +44,22 @@ nav {
 
 footer {
     background-color: #fafafa;
+    position: sticky;
+    bottom: 0;
 }
 
-footer a {
+.socials {
+    text-align: center;
+}
+
+.socials li {
+    display: inline;
+}
+
+.socials i {
     color:#969b9e;
     padding: 5px;
-    margin: 5px;
-    font-size: 2rem;
+    margin: 10px;
+    font-size: 180%;
     text-decoration: none;
-    display: flex;
-    justify-content: flex-end;
 }
