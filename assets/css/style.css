@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: #e7e0e0;
 }
 
 .hero-image {
@@ -7,7 +8,6 @@ body {
     background-size: cover;
     min-height: 80vh;
     position: relative;
-    background-color: #929292;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
@@ -35,13 +35,20 @@ body {
     .background-image {
         min-height: 30vh;
     }
-
-    h1 {
-        font-size: calc(1.525 + 3.3vw);
-    }
 }
 
 nav {
     color: #969b9e;
     padding-left: 10px;
+}
+
+footer {
+    font-size: 2rem;
+    background-color: #fafafa;
+}
+
+footer a {
+    color:#969b9e;
+    padding: 5px;
+    margin: 5px;
 }
