@@ -43,7 +43,7 @@ nav {
 /* Home page content --------------------------------------------------*/
 
 .page-content {
-    margin: 20px;
+    margin: 50px;
 }
 
 .text-column {
@@ -57,12 +57,12 @@ nav {
     clear: both;
   }
 
-.classes-link {
+.image-column {
     width: 50%;
     float: left;
 }
 
-.classes-link a {
+a {
     text-decoration: none;
     color:#848c91;
 }
