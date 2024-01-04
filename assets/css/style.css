@@ -1,7 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: #e7e0e0;
-    color: #969b9e;
+    background-color: #fcfcfc;
+    color:#848c91;
 }
 
 * { 
@@ -52,6 +52,12 @@ nav {
     float: left;
 }
 
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
 .classes-link {
     width: 50%;
     float: left;
@@ -59,14 +65,13 @@ nav {
 
 .classes-link a {
     text-decoration: none;
-    color: #969b9e;
+    color:#848c91;
 }
 
-.row::after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+.house-picture {
+    width: 100%;
+}
+
 
 /* Media Queries ------------------------------------------------------*/
 
@@ -75,8 +80,6 @@ nav {
         min-height: 30vh;
     }
 }
-
-
 
 
 /* Footer -------------------------------------------------------------*/
@@ -101,4 +104,8 @@ footer {
     margin: 10px;
     font-size: 180%;
     text-decoration: none;
+}
+
+.socials i:hover {
+    color:#848c91;
 }
