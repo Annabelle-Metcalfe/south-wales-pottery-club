@@ -1,7 +1,13 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #e7e0e0;
+    color: #969b9e;
 }
+
+* { 
+    box-sizing: border-box;
+}
+
 
 .hero-image {
     background-image: url("/assets/images/background.jpg");
@@ -31,16 +37,49 @@ body {
     height: 50%;
 }
 
+nav {
+    padding-left: 10px;
+}
+
+/* Home page content --------------------------------------------------*/
+
+.home-content {
+    margin: 20px;
+}
+
+.text-column {
+    width: 50%;
+    float: left;
+}
+
+.classes-link {
+    width: 50%;
+    float: left;
+}
+
+.classes-link a {
+    text-decoration: none;
+    color: #969b9e;
+}
+
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+/* Media Queries ------------------------------------------------------*/
+
 @media (max-width: 768px) {
     .background-image {
         min-height: 30vh;
     }
 }
 
-nav {
-    color: #969b9e;
-    padding-left: 10px;
-}
+
+
+
+/* Footer -------------------------------------------------------------*/
 
 footer {
     background-color: #fafafa;
