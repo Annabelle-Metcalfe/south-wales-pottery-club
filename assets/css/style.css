@@ -49,8 +49,18 @@ a {
 
 .page-content {
     margin: 50px;
+
+/* Class page grid ---------------------------------------------------*/
+
+.class-page-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
 }
 
+
+}
+/* WILL NEED TO CHANGE ALL THIS ----------------------------------------
 .text-column {
     width: 50%;
     float: left;
@@ -70,6 +80,8 @@ a {
 .house-picture {
     width: 100%;
 }
+
+--------------------------------------------------------*/
 
 .classes-button {
     background-color: #fafafa;
