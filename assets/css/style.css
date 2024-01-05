@@ -112,7 +112,7 @@ footer {
 }
 
 .socials i {
-    color:#969b9e;
+    color:#848c91;
     padding: 5px;
     margin: 10px;
     font-size: 180%;
@@ -120,5 +120,5 @@ footer {
 }
 
 .socials i:hover {
-    color:#848c91;
+    color: #6c7074;
 }
