@@ -40,6 +40,11 @@ nav {
     padding-left: 10px;
 }
 
+a {
+    text-decoration: none;
+    color:#848c91;
+}
+
 /* Home page content --------------------------------------------------*/
 
 .page-content {
@@ -62,15 +67,24 @@ nav {
     float: left;
 }
 
-a {
-    text-decoration: none;
-    color:#848c91;
-}
-
 .house-picture {
     width: 100%;
 }
 
+.classes-button {
+    background-color: #fafafa;
+    border: 1px solid #848c91;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.classes-button:hover {
+    background-color: #848c91;
+}
+
+.classes-button:hover a {
+    color: #fafafa;
+}
 
 /* Media Queries ------------------------------------------------------*/
 
