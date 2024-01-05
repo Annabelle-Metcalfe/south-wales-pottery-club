@@ -53,11 +53,20 @@ a {
 /* Class page grid ---------------------------------------------------*/
 
 .class-page-grid {
-    display: grid;
+    display: grid inline;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
 }
 
+.class-description {
+    grid-column-start: 1;
+    grid-column-end: 1;
+}
+
+.grid-image {
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
 
 }
 /* WILL NEED TO CHANGE ALL THIS ----------------------------------------
