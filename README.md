@@ -123,7 +123,10 @@ House https://pixabay.com/photos/country-house-villa-ingrown-lonely-5019947/
 Mum and Son https://www.freepik.com/free-photo/mother-with-son-pottery-class_10705274.htm#query=pottery%20class&position=47&from_view=search&track=ais&uuid=15eefbbd-5591-44f1-a7ae-5bea9a06561a
 Children https://www.freepik.com/free-photo/brothers-pottery-class-together_10703805.htm#query=pottery%20class&position=37&from_view=search&track=ais&uuid=15eefbbd-5591-44f1-a7ae-5bea9a06561a
 Couple https://www.freepik.com/free-photo/mutual-creative-work-adult-elegant-couple-casual-clothes-aprons-people-creating-bowl-pottery-wheel-clay-studio_10164980.htm#query=pottery%20class%20couples&position=48&from_view=search&track=ais&uuid=b3ad02d6-f0d1-41af-a080-5162b03a9e45
-
+Pots on shelf https://www.pexels.com/photo/pottery-on-a-wall-shelf-6615807/
+Workshop https://www.pexels.com/photo/photo-of-ceramic-kitchenware-on-shelves-3094041/
+Plant pot https://www.pexels.com/photo/photo-of-ceramic-kitchenware-on-shelves-3094041/
+Studio https://www.pexels.com/photo/couple-creative-working-indoors-9733232/
 ### Code
 
 ### Acknowledgements
