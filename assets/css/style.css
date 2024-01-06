@@ -26,15 +26,9 @@ body {
     font-size: 150%;
     color: #fafafa;
     transform: translate(-50%, -50%);
+    background-color: rbga(0,0,0,0.5);
 }
 
-.overlay {
-    background-color: rgba(0, 0, 0, .2);
-    top: 0;
-    left: 0;
-    width: 50%;
-    height: 50%;
-}
 
 nav {
     padding: 10px;
@@ -85,8 +79,6 @@ a {
 .classes-button:hover a {
     color: #fafafa;
 }
-
-
 
 /* Class page grid ---------------------------------------------------*/
 
