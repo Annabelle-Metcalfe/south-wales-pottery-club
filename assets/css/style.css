@@ -112,6 +112,9 @@ a {
     max-width: 100%;
 }
 
+.class-page-grid hr {
+    grid-area: 2 / 1 / span 1 / span 2;
+}
 
 /* Media Queries ------------------------------------------------------*/
 
