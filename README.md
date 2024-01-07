@@ -127,6 +127,7 @@ Pots on shelf https://www.pexels.com/photo/pottery-on-a-wall-shelf-6615807/
 Workshop https://www.pexels.com/photo/photo-of-ceramic-kitchenware-on-shelves-3094041/
 Plant pot https://www.pexels.com/photo/photo-of-ceramic-kitchenware-on-shelves-3094041/
 Studio https://www.pexels.com/photo/couple-creative-working-indoors-9733232/
+Cactus https://www.freepik.com/free-photo/still-life-with-cactus-plant_44590359.htm#query=website%20background%20pots&position=14&from_view=search&track=ais&uuid=5241e72f-f9bc-465d-915b-89e26216952c
 ### Code
 
 ### Acknowledgements

@@ -104,6 +104,31 @@ a {
     width: 100%;
 }
 
+/*Contact Page Content ------------------------------------------------*/
+
+.contact-page-background {
+    background: url("assets/images/cactus.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact-form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0,0,0,.2);
+    width: 40vh;
+    padding: 50px;
+    
+}
+
+
+
 /* Media Queries ------------------------------------------------------*/
 
 @media (max-width: 768px) {
