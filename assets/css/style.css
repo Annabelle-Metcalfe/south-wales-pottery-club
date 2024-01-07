@@ -54,6 +54,8 @@ a {
 .text-column {
     width: 50%;
     float: left;
+    padding: 20px;
+    text-align: justify;
 }
 
 .row {
@@ -67,6 +69,7 @@ a {
   }
 
 .image-column {
+    padding: 5px;
     width: 50%;
     float: left;
 }
