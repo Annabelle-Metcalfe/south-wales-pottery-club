@@ -128,6 +128,7 @@ Workshop https://www.pexels.com/photo/photo-of-ceramic-kitchenware-on-shelves-30
 Plant pot https://www.pexels.com/photo/photo-of-ceramic-kitchenware-on-shelves-3094041/
 Studio https://www.pexels.com/photo/couple-creative-working-indoors-9733232/
 Cactus https://www.freepik.com/free-photo/still-life-with-cactus-plant_44590359.htm#query=website%20background%20pots&position=14&from_view=search&track=ais&uuid=5241e72f-f9bc-465d-915b-89e26216952c
+Plate https://www.freepik.com/free-photo/top-view-brown-plate-empty-light-blue-plate-food_10543301.htm#page=3&query=Website%20background%20pottery&position=21&from_view=search&track=ais&uuid=a6dbcc91-eeb2-4210-b3a3-0a365894d206
 ### Code
 
 ### Acknowledgements

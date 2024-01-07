@@ -94,7 +94,7 @@ a {
 }
 
 .class-page-grid .class-description {
-    background-color: #e7e3ec;
+    background-color: #f1f1f1;;
     padding: 20px;
 }
 
@@ -106,10 +106,15 @@ a {
 
 /*Contact Page Content ------------------------------------------------*/
 
-.contact-page-background {
-    background: url("assets/images/cactus.jpg");
+.contact-page {
+    background: url("/assets/images/plate.jpeg");
     background-size: cover;
-    height: 100vh;
+    height: 80vh;
+    background-attachment: fixed;
+}
+
+.contact-header {
+    text-align: center;
 }
 
 .form-container {
@@ -121,9 +126,10 @@ a {
 #contact-form {
     display: flex;
     flex-direction: column;
-    background-color: rgba(0,0,0,.2);
-    width: 40vh;
-    padding: 50px;
+    background-color: #f1f1f1;;
+    width: 60vh;
+    padding: 20px;
+    justify-items:stretch;
     
 }
 
