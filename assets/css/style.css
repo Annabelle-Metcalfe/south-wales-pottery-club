@@ -133,17 +133,18 @@ a {
 }
 
 .form-container {
-    display: flex;
+    display: grid;
+    grid-template-columns:  repeat(auto-fit, minmax(300px, 1fr));
     justify-content: center;
-    align-items: center;
-    background-color: #fafafa;
+    width: 60%;
+    margin: auto;
 }
 
 #contact-form {
     display: flex;
     flex-direction: column;
     background-color: #f1f1f1;;
-    width: 50vh;
+    width: 80%;
     padding: 20px;
     gap: 10px;  
 }
@@ -162,8 +163,10 @@ a {
     
 }
 
-.map-container {
-   width: 50vh;
+.form-container iframe {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
 }
 
 
