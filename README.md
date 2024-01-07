@@ -117,6 +117,12 @@ Contact Page
 
 ### Media
 
+Map 
+
+Google Maps "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19876.57543532705!2d-3.6157785047719218!3d51.4843713332673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e6da60f85f263%3A0x50d8b23d4977cb0!2sEwenny%2C%20Bridgend%20CF35%205BL!5e0!3m2!1sen!2suk!4v1704639927687!5m2!1sen!2suk" 
+
+Images
+
 background image <https://www.pexels.com/photo/person-holding-wooden-rolling-pin-7559748/>
 Pot painting https://pixabay.com/photos/hand-art-pot-master-man-handmade-5441435/
 House https://pixabay.com/photos/country-house-villa-ingrown-lonely-5019947/
@@ -129,6 +135,7 @@ Plant pot https://www.pexels.com/photo/photo-of-ceramic-kitchenware-on-shelves-3
 Studio https://www.pexels.com/photo/couple-creative-working-indoors-9733232/
 Cactus https://www.freepik.com/free-photo/still-life-with-cactus-plant_44590359.htm#query=website%20background%20pots&position=14&from_view=search&track=ais&uuid=5241e72f-f9bc-465d-915b-89e26216952c
 Plate https://www.freepik.com/free-photo/top-view-brown-plate-empty-light-blue-plate-food_10543301.htm#page=3&query=Website%20background%20pottery&position=21&from_view=search&track=ais&uuid=a6dbcc91-eeb2-4210-b3a3-0a365894d206
+
 ### Code
 
 ### Acknowledgements

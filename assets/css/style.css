@@ -30,8 +30,14 @@ body {
 }
 
 
-nav {
-    padding: 10px;
+.navbar {
+    padding: 8px 15px 8px 15px;
+    font-weight: 400;
+    background-color: #fcfcfc;
+}
+
+.navbar a:hover {
+    color: #0c0c0c
 }
 
 a {
@@ -48,6 +54,10 @@ a {
 .text-column {
     width: 50%;
     float: left;
+}
+
+.row {
+    --bs-gutter-x: 0;
 }
 
 .row::after {
@@ -68,7 +78,7 @@ a {
 .classes-button {
     background-color: #fafafa;
     border: 1px solid #848c91;
-    border-radius: 15px;
+    border-radius: 10px;
     padding: 5px;
 }
 
@@ -115,22 +125,42 @@ a {
 
 .contact-header {
     text-align: center;
+    padding: 20px;
+    font-weight: 900;
 }
 
 .form-container {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #fafafa;
 }
 
 #contact-form {
     display: flex;
     flex-direction: column;
     background-color: #f1f1f1;;
-    width: 60vh;
+    width: 50vh;
     padding: 20px;
-    justify-items:stretch;
+    gap: 10px;  
+}
+
+.submit-button {
+    width:fit-content;
+    float: right;
+    border: 1px solid #848c91;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.submit-button:hover {
+    background-color: #848c91;
+    color:#fafafa;
     
+}
+
+.map-container {
+   width: 50vh;
 }
 
 
@@ -188,7 +218,7 @@ footer {
 .socials i {
     color:#848c91;
     padding: 5px;
-    margin: 10px;
+    margin: 5px;
     font-size: 180%;
     text-decoration: none;
 }

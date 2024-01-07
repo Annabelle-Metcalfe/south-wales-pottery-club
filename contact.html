@@ -26,7 +26,7 @@
 
 <header>
 <!--- Navbar / Bootstrap ---------------------------------------------> 
-<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #f1f1f1;">
+<nav class="navbar navbar-expand-lg navbar-light">
   <a class="navbar-brand" href="index.html">South Wales Pottery Club</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -55,21 +55,25 @@
 <section class="contact-page">
 <h2 class="contact-header">Get in Touch!</h2>
 <div class="form-container">
-    
-    <form method="post" action="https://formdump.codeinstitute.net/" id="contact-form">
-        <label for="first-name">First Name</label>
+      
+      <form method="post" action="https://formdump.codeinstitute.net/" id="contact-form">
+        <!--<label for="first-name">First Name</label>-->
         <input type="text" placeholder="First Name" class="first-name" id="first-name" name="first-name"
         required>
-        <label for="second-name">Second Name</label>
+        <!--<label for="second-name">Second Name</label>-->
         <input type="text" placeholder="Second Name" class="second-name" id="second-name" name="second-name" required>
-        <label for="email">Email Address</label>
+        <!--<label for="email">Email Address</label>-->
         <input type="email" placeholder="Email Address" class="email" id="email" name="email" required>
-        <label for="query">Query</label>
+        <!--<label for="query">Query</label>-->
         <textarea placeholder="Query" class="query" id="query" name="query" rows="5" cols="3" required></textarea>
-        <input type="submit">
+        <input type="submit" class="submit-button">
       </form>
-    </div>
+
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19876.57543532705!2d-3.6157785047719218!3d51.4843713332673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e6da60f85f263%3A0x50d8b23d4977cb0!2sEwenny%2C%20Bridgend%20CF35%205BL!5e0!3m2!1sen!2suk!4v1704639927687!5m2!1sen!2suk" width="400" height="300" style="border:1px solid;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ 
+  </div>
 </section>
+
 <footer>
     <ul class="socials">
     <li><a href="index.html"><i class="fa fa-home" aria-hidden="true"></i></a></li>
