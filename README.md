@@ -135,7 +135,14 @@ Plant pot https://www.pexels.com/photo/photo-of-ceramic-kitchenware-on-shelves-3
 Studio https://www.pexels.com/photo/couple-creative-working-indoors-9733232/
 Cactus https://www.freepik.com/free-photo/still-life-with-cactus-plant_44590359.htm#query=website%20background%20pots&position=14&from_view=search&track=ais&uuid=5241e72f-f9bc-465d-915b-89e26216952c
 Plate https://www.freepik.com/free-photo/top-view-brown-plate-empty-light-blue-plate-food_10543301.htm#page=3&query=Website%20background%20pottery&position=21&from_view=search&track=ais&uuid=a6dbcc91-eeb2-4210-b3a3-0a365894d206
-
+multi-coloured https://pixabay.com/users/hans-2/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=9367
+White jugs https://pixabay.com/users/noname_13-2364555/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4465357
+Hanging Mugs https://pixabay.com/users/publicdomainpictures-14/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=21905
+Lady Sculpture https://pixabay.com/users/disappearingdiamonds-3977653/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3394318
+Cats Image https://pixabay.com/users/leoleobobeo-1487549/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2759936
+student https://www.pexels.com/photo/pottery-making-classes-15096491/
+child https://www.pexels.com/photo/girl-in-art-class-3965526/
+happy pot https://www.pexels.com/photo/green-leafy-plant-potted-on-clay-pot-993626/
 ### Code
 
 ### Acknowledgements
