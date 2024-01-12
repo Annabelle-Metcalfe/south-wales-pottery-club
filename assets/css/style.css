@@ -121,13 +121,14 @@ a {
 
 /*Contact Page Content ------------------------------------------------*/
 
+/*
 .contact-page {
     background: url("/assets/images/plate.jpeg");
     background-size: cover;
     height: 80vh;
     background-attachment: fixed;
 }
-
+*/
 .contact-header {
     text-align: center;
     padding: 20px;
