@@ -1,7 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #fcfcfc;
-    color:#3a4347;
+    color:#2c3336;
     font-weight: 500;
 }
 
@@ -361,6 +361,22 @@ label {
         width: 100%;
         grid-column-start: 1;
         grid-column-end: 2;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .gallery {
+        display: block;
+        column-count: 2;
+        row-gap: 10px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .gallery {
+        display: block;
+        column-count: 1;
+        row-gap: 10px;
     }
 }
 
