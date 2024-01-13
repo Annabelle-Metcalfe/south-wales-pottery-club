@@ -236,12 +236,12 @@ label {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(16, 5vw);
+    justify-content: center;
     gap: 10px;
     width: 90%;
-    margin: 0 20px;
-    padding: 20px;
-    border: 1px solid;
-    justify-content: center;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #f1f1f1;
 }
 
 .gallery img {
@@ -299,14 +299,12 @@ label {
     grid-row-end: 17;
 }
 
-
 .gallery-img-8 {
     grid-column-start: 4;
     grid-column-end: 8;
     grid-row-start: 11;
     grid-row-end: 14;
 }
-
 
 .gallery-img-9 {
     grid-column-start: 4;
@@ -321,7 +319,6 @@ label {
     grid-row-start: 11;
     grid-row-end: 17;
 }
-
 
 /* Media Queries ------------------------------------------------------*/
 
