@@ -289,7 +289,7 @@ label {
     grid-column-start: 6;
     grid-column-end: 11;
     grid-row-start: 7;
-    grid-row-end: 12;
+    grid-row-end: 11;
 }
 
 .gallery-img-7 {
@@ -297,6 +297,13 @@ label {
     grid-column-end: 6;
     grid-row-start: 11;
     grid-row-end: 12;
+}
+
+.gallery-img-8 {
+    grid-column-start: 1;
+    grid-column-end: 11;
+    grid-row-start: 12;
+    grid-row-end: 13;
 }
 
 

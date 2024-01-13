@@ -143,6 +143,8 @@ Cats Image https://pixabay.com/users/leoleobobeo-1487549/?utm_source=link-attrib
 student https://www.pexels.com/photo/pottery-making-classes-15096491/
 child https://www.pexels.com/photo/girl-in-art-class-3965526/
 happy pot https://www.pexels.com/photo/green-leafy-plant-potted-on-clay-pot-993626/
+Men https://www.freepik.com/free-photo/side-view-man-doing-pottery_31124478.htm#query=pottery%20class&position=7&from_view=keyword&track=ais&uuid=8218caed-1a9f-4aae-88af-c016115a128
+Random pots https://www.freepik.com/free-photo/various-ceramic-vases-with-paint-pottery-concept_10267527.htm#page=3&query=ceramics%20colourful&position=33&from_view=search&track=ais&uuid=87aa8cf3-c79b-4126-bf35-7f4bef18996a
 ### Code
 
 ### Acknowledgements
