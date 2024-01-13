@@ -234,11 +234,12 @@ label {
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: repeat(8, 5vh);
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 5vh);
     gap: 10px;
     margin: 0 20px;
     padding: 0 50px;
+    border: 1px solid;
 }
 
 .gallery img {
@@ -248,10 +249,8 @@ label {
 }
 
 .gallery-img-1 {
-    grid-column-start: 1;
-    grid-column-end: 5;
-    grid-row-start: 1;
-    grid-row-end: 9;
+    grid-column: 1 / span 4;
+    grid-row: 1 / span 6;
 }
 
 .gallery-img-2 {
