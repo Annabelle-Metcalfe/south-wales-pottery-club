@@ -147,6 +147,8 @@ Men https://www.freepik.com/free-photo/side-view-man-doing-pottery_31124478.htm#
 Random pots https://www.freepik.com/free-photo/various-ceramic-vases-with-paint-pottery-concept_10267527.htm#page=3&query=ceramics%20colourful&position=33&from_view=search&track=ais&uuid=87aa8cf3-c79b-4126-bf35-7f4bef18996a
 ### Code
 
+Rounded corners tutorial https://unused-css.com/blog/css-rounded-table-corners/#:~:text=If%20you%20are%20only%20rounding,done%20with%20a%20box%2Dshadow%20.
+
 ### Acknowledgements
 
 Responsive background images with Bootstrap 5

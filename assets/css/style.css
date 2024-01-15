@@ -117,11 +117,12 @@ a {
     color: #fafafa;
 }
 
-/* Class page grid ---------------------------------------------------*/
+/* Classes page -------------------------------------------------------*/
 
 h3 {
     font-size: 1.3rem;
 }
+
 .class-page-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -154,7 +155,17 @@ h3 {
     padding: 5px;
 }
 
-table, th, td {
+/* Rounded corners tutorial -------------------------------*/
+table {
+    --border: 1px solid #848c916b;
+    border-radius: 5px;
+    border-spacing: 0;
+    border-collapse: separate;
+    border: var(--border);
+    overflow: hidden;
+   }
+
+th, td {
     border: 1px solid #848c916b;
     padding: 5px 10px;
     text-align: center;
@@ -167,7 +178,7 @@ table, th, td {
 }
 
 
-/*Contact Page Content ------------------------------------------------*/
+/*Contact Page -----------------------------------------------------*/
 
 .contact-header {
     text-align: center;
