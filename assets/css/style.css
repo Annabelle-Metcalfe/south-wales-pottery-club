@@ -12,7 +12,7 @@ body {
 .hero-image-main {
     background-image: url("/assets/images/background.jpg");
     background-size: cover;
-    min-height: 80vh;
+    min-height: 70vh;
     position: relative;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -64,7 +64,7 @@ body {
 
 a {
     text-decoration: none;
-    color:#848c91;
+    color:#2c3336;
 }
 
 /* Home page content --------------------------------------------------*/
