@@ -10,7 +10,7 @@ body {
 }
 
 .hero-image-main {
-    background-image: url("/assets/images/background.jpg");
+    background-image: url("/assets/images/background-image.jpg");
     background-size: cover;
     min-height: 70vh;
     position: relative;
