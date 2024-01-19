@@ -15,9 +15,9 @@ The outcome of this project will target consumers appropriately and add value to
 
 ### Competitor Review
 
-
-
- [Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com) are a successful business based in Cardiff. Although very informative, the website is not the most intuitive and seems to lack responsiveness when viewed on a larger screen. There is a lot of empty space when you first navigate to the home page and the menu sits in the middle of the screen, it not immediately obvious that there is more content on the page. The navigation menu is a long list of things they offer in no particular order which may cause issues with users not being able to find the appropriate content quickly. 
+ [Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com) are a successful business based in Cardiff. They have  wide range of classes and membership options available.
+ 
+  Although very informative, the website is not the most intuitive and seems to lack responsiveness when viewed on a larger screen. There is a lot of empty space when you first navigate to the home page and the menu sits in the middle of the screen, it not immediately obvious that there is more content on the page. The navigation menu is a long list of things they offer in no particular order which may cause issues with users not being able to find the appropriate content quickly. 
 
  Further down, they have links to different pages within the about section. These link to new pages with class descriptions, however on testing a number of the links don't work. Presenting the class descriptions in this way makes it quite challenging for the user, as it relies on them scrolling down to the appropriate section, reading the about section where you would not intuituvely look for class information, and then with broken links end up unable to find the information. 
 
@@ -35,6 +35,13 @@ While the site is comprehensive and contains a lot of useful information, it cou
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-6.png)
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-7.png)
 
+
+[Peggy's Pots](https://www.peggyspots.co.uk/Default.aspx) is another successful business based in Cardiff. They offer pottery painting experiences and parties for people of all ages.
+
+The website is easier to navigate than the Cardiff Pottery Workshop but could be improved upon. The navigation menu again is quite a long list that could be better organised into categories and sits below the logo.
+
+
+![Peggy's Pots](assets/images/readme-images/peggys-pots-1.png)
 ### User Goals
 
 Users of the site will be able to:
