@@ -9,6 +9,21 @@ The business has not yet begun trading so at this time they are looking to estab
 
 The outcome of this project will target consumers appropriately and add value to their experience by utilising UX design principles. The site will be cleanly presented, easy to navigate and encourage enquires through clickable links. The user will also have easy access to all relevant information wihtout having to search through multiple pages. 
 
+### Business Goals
+
+* To attract customers and build membership
+
+### Competitor Review
+
+[Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com)
+
+Cardiff Pottery Workshops are a successful business based in Cardiff. Although very informative, the website is not the most intuitive and seems to lack responsiveness when viewed on a larger screen. There is a lot of empty space when you first navigate to the home page and the menu sits in the middle of the screen, it not immediately obvious that there is more content on the page. The navigation menu is a long list of things they offer in no particular order which may cause issues with users not being able to find the appropriate content quickly. 
+
+![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-1.png)
+![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-2.png)
+![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-3.png)
+![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-4.png)
+
 ### User Goals
 
 Users of the site will be able to:
@@ -19,12 +34,6 @@ Users of the site will be able to:
 * Find contact information for the business
 * View gallery of events and work
 * View information on the benefits of pottery for wellbeing
-
-### Business Goals
-
-* To attract customers and build membership
-
-### Competitor Review
 
 ### User Stories
 
@@ -39,6 +48,8 @@ Users of the site will be able to:
 * User 5 is looking for a unique experience gift for a loved one
 
 * User 6 was referred by the local mental health team
+
+
 
 ## UX - Scope
 
