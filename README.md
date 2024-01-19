@@ -15,14 +15,25 @@ The outcome of this project will target consumers appropriately and add value to
 
 ### Competitor Review
 
-[Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com)
 
-Cardiff Pottery Workshops are a successful business based in Cardiff. Although very informative, the website is not the most intuitive and seems to lack responsiveness when viewed on a larger screen. There is a lot of empty space when you first navigate to the home page and the menu sits in the middle of the screen, it not immediately obvious that there is more content on the page. The navigation menu is a long list of things they offer in no particular order which may cause issues with users not being able to find the appropriate content quickly. 
+
+ [Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com) are a successful business based in Cardiff. Although very informative, the website is not the most intuitive and seems to lack responsiveness when viewed on a larger screen. There is a lot of empty space when you first navigate to the home page and the menu sits in the middle of the screen, it not immediately obvious that there is more content on the page. The navigation menu is a long list of things they offer in no particular order which may cause issues with users not being able to find the appropriate content quickly. 
+
+ Further down, they have links to different pages within the about section. These link to new pages with class descriptions, however on testing a number of the links don't work. Presenting the class descriptions in this way makes it quite challenging for the user, as it relies on them scrolling down to the appropriate section, reading the about section where you would not intuituvely look for class information, and then with broken links end up unable to find the information. 
+
+The contact page doesn't respond to being on a larger screen, while not unusable it doesn't create the best UX experience.
+
+Lastly, the booking system is quite sporadic. Rather than having a dedicated booking section they have hidden the booking forms within the individual class pages. The personal tuition is at the bottom of the throwing classes page, which would not be where a user is likely to look for it.
+
+While the site is comprehensive and contains a lot of useful information, it could be made more user friendly by better organising the information into relevant categories. Having a dedicated classes and booking page would rectify some of the navigation problems, while addressing some of the responsiveness issues would improve the user experience. 
 
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-1.png)
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-2.png)
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-3.png)
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-4.png)
+![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-5.png)
+![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-6.png)
+![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-7.png)
 
 ### User Goals
 
