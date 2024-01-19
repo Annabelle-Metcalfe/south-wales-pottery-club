@@ -148,6 +148,10 @@ h3 {
     border-radius: 3px; 
 }
 
+.contact-link:hover {
+    color: #6c7074;
+}
+
 .timetable {
     display: flex;
     justify-content: center;
