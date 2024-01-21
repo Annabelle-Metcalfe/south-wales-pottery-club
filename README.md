@@ -15,6 +15,8 @@ The outcome of this project will target consumers appropriately and add value to
 
 ### Competitor Review
 
+#### Cardiff Pottery Workshops 
+
  [Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com) are a successful business based in Cardiff. They have  wide range of classes and membership options available including lessons, studio space for rent and social evenings.
  
   Although very informative, the website is not the most intuitive and seems to lack responsiveness when viewed on a larger screen. There is a lot of empty space when you first navigate to the home page and the menu sits in the middle of the screen, it not immediately obvious that there is more content on the page. The navigation menu is a long list of things they offer in no particular order which may cause issues with users not being able to find the appropriate content quickly. 
@@ -35,10 +37,15 @@ While the site is comprehensive and contains a lot of useful information, it cou
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-6.png)
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-7.png)
 
+#### Peggy's Pots
 
 [Peggy's Pots](https://www.peggyspots.co.uk/Default.aspx) is another successful business based in Cardiff. They offer pottery painting experiences and parties for people of all ages, especially catering for families.
 
-The website is easier to navigate than the Cardiff Pottery Workshop but could be improved upon. The navigation menu again is quite a long list that could be better organised into categories and sits below the logo.
+The website is easier to navigate than the Cardiff Pottery Workshop but could also be improved upon. The navigation menu again is quite a long list that could be better organised into categories and sits below the logo.
+
+They have included a classes section on the home page, providing a clear overview of the different class types. Clicking on these leads to a dedicated class page with descriptions and what to expect. Further down they have testimonials, the subscribe form and address all sitting within the footer. There seems to be an issue with the form size making a lot of empty space next to it. The form could perhaps be moved to another section to avoid this. 
+
+The site has been designed with Bootstrap so seems to avoid any issues with resizing, and in fact looks better on a smaller screen as there is less blank space. The contact and booking pages contain lots of useful information, but could potenially benefit from some adjustments to the layout as the containers seem to sit randomly across the screen on a larger screen. Overall it is a good basic site which in relatively easy to navigate, however it could be made more user friendly with some tweaking to the design and layout. 
 
 
 ![Peggy's Pots](assets/images/readme-images/peggys-pots-1.png)
