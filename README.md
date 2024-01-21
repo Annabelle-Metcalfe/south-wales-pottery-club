@@ -56,7 +56,13 @@ The site has been designed with Bootstrap so seems to avoid any issues with resi
 
 #### Stupots 
 
-[Stupots](https://www.stupots.co.uk/) is a pottery workshop based in Bristol. 
+[Stupots](https://www.stupots.co.uk/) is a pottery workshop based in Bristol. They offer a wide range of classes and expereinces including corporte team building sessions.
+
+The website is really nicely laid out and responsive. The navigation is organised into relevant categories and the logo sits nicely within the menu without being too big. They have used a video in place of a hero image on the home page which creates a welcoming expereince. They have added a modal advising on extra spaces available in the taster sessions on the right of the screen which is a bit detrimental to the video, but does grab your attention. 
+
+As you scroll down there is information on the highlighted experiences that they offer, testimonials, a scrolling gallery and finally a large footer which contains a lot of information inluding the address and contact information. It is well presented with interesting graphics, the layouts include images and descriptions defined into different sections by background colours and the descriptions are comprehensive without being too long. Each includes a link to a dedicated page with more information.
+
+The booking and conact pages are also well laid out with well proportioned containers and are clean without too much information. 
 
 ![Stupots](assets/images/readme-images/stupots-1.png)
 ![Stupots](assets/images/readme-images/stupots-2.png)
