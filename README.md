@@ -15,13 +15,13 @@ The outcome of this project will target consumers appropriately and add value to
 
 ### Competitor Review
 
- [Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com) are a successful business based in Cardiff. They have  wide range of classes and membership options available.
+ [Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com) are a successful business based in Cardiff. They have  wide range of classes and membership options available including lessons, studio space for rent and social evenings.
  
   Although very informative, the website is not the most intuitive and seems to lack responsiveness when viewed on a larger screen. There is a lot of empty space when you first navigate to the home page and the menu sits in the middle of the screen, it not immediately obvious that there is more content on the page. The navigation menu is a long list of things they offer in no particular order which may cause issues with users not being able to find the appropriate content quickly. 
 
- Further down, they have links to different pages within the about section. These link to new pages with class descriptions, however on testing a number of the links don't work. Presenting the class descriptions in this way makes it quite challenging for the user, as it relies on them scrolling down to the appropriate section, reading the about section where you would not intuituvely look for class information, and then with broken links end up unable to find the information. 
+ Further down, they have links to different pages within the about section. These link to new pages with class descriptions, however on testing a number of the links don't work. Presenting the class descriptions in this way makes it quite challenging for the user, as it relies on them scrolling down to the appropriate section, reading the about section where you would not intuituvely look for class information, and then unable to find the information with broken links. 
 
-The contact page doesn't respond to being on a larger screen, while not unusable it doesn't create the best UX experience.
+The contact page doesn't respond to being on a larger screen, while not unusable it doesn't create the best UX experience as the input boxes seem disproportionately large for the amount of content they are designed to contain.
 
 Lastly, the booking system is quite sporadic. Rather than having a dedicated booking section they have hidden the booking forms within the individual class pages. The personal tuition is at the bottom of the throwing classes page, which would not be where a user is likely to look for it.
 
@@ -36,12 +36,17 @@ While the site is comprehensive and contains a lot of useful information, it cou
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-7.png)
 
 
-[Peggy's Pots](https://www.peggyspots.co.uk/Default.aspx) is another successful business based in Cardiff. They offer pottery painting experiences and parties for people of all ages.
+[Peggy's Pots](https://www.peggyspots.co.uk/Default.aspx) is another successful business based in Cardiff. They offer pottery painting experiences and parties for people of all ages, especially catering for families.
 
 The website is easier to navigate than the Cardiff Pottery Workshop but could be improved upon. The navigation menu again is quite a long list that could be better organised into categories and sits below the logo.
 
 
 ![Peggy's Pots](assets/images/readme-images/peggys-pots-1.png)
+![Peggy's Pots](assets/images/readme-images/peggys-pots-2.png)
+![Peggy's Pots](assets/images/readme-images/peggys-pots-3.png)
+![Peggy's Pots](assets/images/readme-images/peggys-pots-4.png)
+![Peggy's Pots](assets/images/readme-images/peggys-pots-5.png)
+
 ### User Goals
 
 Users of the site will be able to:
