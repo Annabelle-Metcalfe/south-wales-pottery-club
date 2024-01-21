@@ -11,7 +11,9 @@ The outcome of this project will target consumers appropriately and add value to
 
 ### Business Goals
 
+* To create an online presence for the business
 * To attract customers and build membership
+* To provide information on classes, contact information and the location of the studio
 
 ### Competitor Review
 
@@ -56,13 +58,13 @@ The site has been designed with Bootstrap so seems to avoid any issues with resi
 
 #### Stupots 
 
-[Stupots](https://www.stupots.co.uk/) is a pottery workshop based in Bristol. They offer a wide range of classes and expereinces including corporte team building sessions.
+[Stupots](https://www.stupots.co.uk/) is a pottery workshop based in Bristol. They offer a wide range of classes and experiences including corporate team building sessions.
 
 The website is really nicely laid out and responsive. The navigation is organised into relevant categories and the logo sits nicely within the menu without being too big. They have used a video in place of a hero image on the home page which creates a welcoming experience. They have added a modal advising on extra spaces available in the taster sessions on the right of the screen which is a bit detrimental to the video, but does grab your attention. 
 
-As you scroll down there is information on the highlighted experiences that they offer, testimonials, a scrolling gallery incorporating Javascript and finally a large footer which contains a lot of information inluding the address and contact information. It is well presented with interesting graphics, the layouts include images and descriptions defined into sections by different background colours and the descriptions are comprehensive without being too long. Each includes a link to a dedicated page with more information encouraging clicks.
+As you scroll down there is information on the highlighted experiences that they offer, testimonials, a scrolling gallery incorporating Javascript and finally a large footer which contains a lot of information inluding the address and contact information. It is well presented with interesting graphics, the layouts include images and descriptions defined into sections by different background colours and the descriptions are comprehensive without being too long. Each section includes a link to a dedicated page with more information encouraging clicks.
 
-The booking and contact pages are also well laid out with well proportioned containers and are clean without too much information. The site is responsive and works well on both large and small screens. They've used a number of frameworks including Yoast SEO and seems to have been built on Wordpress. Overall this is a really user friendly website that looks professional and stands out in the research.
+The booking and contact pages are also well laid out with well proportioned containers and are clean without too much information. The site is responsive and works well on both large and small screens. They've used a number of frameworks including Yoast SEO and seems to have been built on Wordpress. Overall this is a really user friendly website that looks professional and stands out as a good example from the research for this project.
 
 ![Stupots](assets/images/readme-images/stupots-1.png)
 ![Stupots](assets/images/readme-images/stupots-2.png)
@@ -75,13 +77,13 @@ The booking and contact pages are also well laid out with well proportioned cont
 
 ### User Goals
 
-Users of the site will be able to:
+Based on the competitor research, a number of key features have been identified. Users of the site will be able to:
 
 * Browse different classes and events
 * Find class and event timetables
-* Find the location of the classes
+* Find the location of the studio
 * Find contact information for the business
-* View gallery of events and work
+* View a gallery of the studio in action
 * View information on the benefits of pottery for wellbeing
 
 ### User Stories
@@ -99,13 +101,13 @@ Users of the site will be able to:
 * User 6 was referred by the local mental health team
 
 
-
 ## UX - Scope
-
 
 ### Limitations Identified 
 
-* Without back-end development it is not possible to implement all desired features at this stage. 
+It is not possible to implement all desired features at this stage for a number of reasons. The contact form will not be linked to a database without back-end development, and the gallery will be static as there will be no Javascript. There will also be limited pages due to time contraints and the assesment criteria required for the project.
+
+I have used Bootstrap to enable a responsive menu in the design but chosen to limit the use of this framework in other areas of the site. The reason for this decision is that I wished to have a good understanding of CSS and did not want to always be reliant on Bootstrap to help with responsiveness. The outcome of this has been learning to impliment CSS grids and media queries which has been successful.
 
 ### Current Phase
 
@@ -115,11 +117,15 @@ Users of the site will be able to:
 
 ## UX - Structure
 
-### Wireframes
+### Sitemap
 
-Sitemap
+Navigation
 
 ![Site map wireframe](assets/images/wireframes/site-map.png)
+
+## UX - Skeleton Plane
+
+### Wirerames
 
 Home Page
 
@@ -145,11 +151,20 @@ Contact Page
 
 ![Contact page wirfeframe](assets/images/wireframes/contact-page.png)
 
+
+## UX - Surface Plane 
+
 ## Design Choices 
+
+Colours/fonts/layout/images/order/sequence/brand
+
+Screenshots 
 
 ## Features
 
 ### Current Features
+
+Screenshots
 
 * Home page with hero image
 * Navitagion to:
