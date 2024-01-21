@@ -45,7 +45,7 @@ The website is easier to navigate than the Cardiff Pottery Workshop but could al
 
 They have included a classes section on the home page, providing a clear overview of the different class types. Clicking on these leads to a dedicated class page with descriptions and what to expect. Further down they have testimonials, the subscribe form and address all sitting within the footer. There seems to be an issue with the form size making a lot of empty space next to it. The form could perhaps be moved to another section to avoid this. 
 
-The site has been designed with Bootstrap so seems to avoid any issues with resizing, and in fact looks better on a smaller screen as there is less blank space. The contact and booking pages contain lots of useful information, but could potenially benefit from some adjustments to the layout as the containers seem to sit randomly across the screen on a larger screen. Overall it is a good basic site which in relatively easy to navigate, however it could be made more user friendly with some tweaking to the design and layout. 
+The site has been designed with Bootstrap so seems to avoid any issues with resizing, and in fact looks better on a smaller screen as there is less blank space. The contact and booking pages contain lots of useful information, but could potenially benefit from some adjustments to the layout as the containers seem to sit randomly across the screen on a larger screen. Overall it is a good basic site which is relatively easy to navigate, however it could be made more user friendly with some tweaking to the design and layout. 
 
 
 ![Peggy's Pots](assets/images/readme-images/peggys-pots-1.png)
@@ -53,6 +53,19 @@ The site has been designed with Bootstrap so seems to avoid any issues with resi
 ![Peggy's Pots](assets/images/readme-images/peggys-pots-3.png)
 ![Peggy's Pots](assets/images/readme-images/peggys-pots-4.png)
 ![Peggy's Pots](assets/images/readme-images/peggys-pots-5.png)
+
+#### Stupots 
+
+[Stupots](https://www.stupots.co.uk/) is a pottery workshop based in Bristol. 
+
+![Stupots](assets/images/readme-images/stupots-1.png)
+![Stupots](assets/images/readme-images/stupots-2.png)
+![Stupots](assets/images/readme-images/stupots-3.png)
+![Stupots](assets/images/readme-images/stupots-4.png)
+![Stupots](assets/images/readme-images/stupots-5.png)
+![Stupots](assets/images/readme-images/stupots-6.png)
+![Stupots](assets/images/readme-images/stupots-7.png)
+![Stupots](assets/images/readme-images/stupots-8.png)
 
 ### User Goals
 
