@@ -1,5 +1,34 @@
 # South Wales Pottery Club
 
+## Contents
+* [UX - Strategy](#ux---strategy)
+  * [Project Goals](#project-goals)
+  * [Business Goals](#business-goals)
+  * [Competitor Review](#competitor-review)
+     * [Cardiff Pottery Workshop](#cardiff-pottery-workshops)
+     * [Peggy's Pots](#peggys-pots)
+     * [Stupots](#stupots)
+  * [User Goals](#user-goals)
+  * [User Stories](#user-stories)
+* [UX - Scope](#ux---scope)
+  * [Limitations Identified](#limitations-identified)
+  * [Current Phase](#current-phase)
+* [UX - Structure](#ux---structure)
+  * [Sitemap](#sitemap)
+* [UX - Skeleton Plane](#ux---skeleton-plane)
+  * [Wireframes](#wirerames)
+* [UX - Surface Plane](#ux---surface-plane)
+  * [Design Choices](#design-choices)
+   * [Colour Palette](#colour-pallette)
+   * [Typography](#typography)
+  * [Features](#current-features)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Technologies Used](#technologies-used)
+* [Acknowledgements](#acknowledgements)
+
+
+
 ## UX - Strategy 
 ### Project Goals
 
