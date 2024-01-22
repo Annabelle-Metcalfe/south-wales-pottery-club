@@ -159,7 +159,7 @@ Contact Page
 
 #### Colour Pallette
 
-I chose to keep the colour palette quite neutral to ensure that none of the elements would be overpowering to the viewer. 
+Pottery is a relaxing and slow-paced activity so I chose to keep the colour palette quite neutral to ensure that none of the elements would be overpowering and create a calm aesthetic. 
 
 ![Colour Palette](assets/images/readme-images/colour-palette.png)
 
