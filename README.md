@@ -132,21 +132,13 @@ Home Page
 
 ![Home page wireframe](assets/images/wireframes/home-page.png)
 
-About Page
-
-![About page wireframe](assets/images/wireframes/about-page.png)
-
 Classes Page
 
-![Classes page wireframe](assets/images/wireframes/classes-page.png)
+![Classes page wireframe](assets/images/wireframes/class-page.png)
 
 Gallery Page
 
 ![Gallery page wireframe](assets/images/wireframes/gallery-page.png)
-
-Timetable Page
-
-![Timetable page wireframe](assets/images/wireframes/timetable-page.png)
 
 Contact Page
 
