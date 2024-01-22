@@ -117,29 +117,36 @@ a {
 }
 
 .testimonials {
-    display: grid;
+    display: block;
+    column-count: 3;
+    column-gap: 10px;
+    /*display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 2;
-    gap: 20px;
+    grid-template-rows: 2;*/
     width: 100%;
-    height: 20vh;
+    height: auto;
     justify-items: center;
-    margin: auto 0;
-    padding: 20px 50px;
+    margin: auto;
     color:#fcfcfc;
-    background-color: rgba(0,0,0,0.3);
+    padding: 0 20px;
 }
 
-.testimonials h5 {
-    grid-column-start: 1;
+#testimonials-heading {
+  /*  grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 1;
-    grid-row-end: 1;
+    grid-row-end: 1;*/
+    display: flex;
+    justify-content: center;
     font-weight: 500;
+    margin-bottom: 10px;
+    font-style: italic;
 }
 
 .testimonials p {
     font-style: italic;
+    background-color: rgba(0,0,0,0.3);
+    padding: 20px;
 }
 
 
