@@ -240,10 +240,8 @@ label {
 
 iframe {
     object-fit: cover;
-    height: 40vh;
+    height: 60%;
     width: 100%;
-    grid-column-start: 1;
-    grid-column-end: 3;
     border-radius: 3px;
 }
 
@@ -253,14 +251,12 @@ iframe {
     padding: 20px;
     text-align: justify;
     font-size: 1.1rem;
-    grid-column-start: 1;
-    grid-column-end: 3;
 }
 
 .contact-info p {
-    display: inline-block;
-    text-align: center;
-    padding: 10px 20px;
+    text-align: left;
+    padding: 5px 10px;
+    margin-bottom: 10px;
 }
 
 .contact-info i {
@@ -279,6 +275,7 @@ iframe {
 .timetable {
     background-color: #fcfcfc;
     padding: 0 30px;
+    text-align: center;
 }
 
 /* Rounded corners tutorial -------------------------------*/
@@ -425,10 +422,11 @@ th, td {
 }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
     .contact-info p {
         padding: 0;
         text-align: left;
+        font-size: 1rem;
     }
 
     .timetable {
