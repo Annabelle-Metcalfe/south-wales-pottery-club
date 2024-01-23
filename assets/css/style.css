@@ -388,6 +388,12 @@ th, td {
 
 /* Media Queries ------------------------------------------------------*/
 
+@media screen and (max-width: 400px) {
+    .nav-home-page {
+    display: none;
+    }
+}
+
 @media (max-width: 768px) {
     .hero-image-main, .hero-image-classes, .hero-image-contact {
         min-height: 60vh;
@@ -447,10 +453,59 @@ th, td {
     }
 }
 
+
 @media screen and (max-width: 900px) {
     .form-container {
-        padding: 15px 10px;
+        padding: 10px 10px;
         margin: auto;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    h1, hr {
+        display: none;
+    }
+
+    .hero-text {
+        font-size: 80%;
+    }
+
+    .class-page-grid {
+        width: 100%;
+        padding: 0;
+    }
+
+    .class-page-grid .class-description {
+        font-size: 0.9rem;
+        width: 90%;
+        margin: auto;
+    }
+
+    .navbar-brand {
+        display: none;
+    }
+
+    .form-container {
+        padding: 0;
+        width: 100%;
+    }
+
+    .contact-form label {
+        font-size: 0.7rem;
+    }
+
+    .contact-info {
+        font-size: 0.7rem;
+    }
+
+    .timetable {
+        transform: scale(60%);
+    }
+
+    footer i {
+        padding: 5px;
+        font-size: 0.8rem;
     }
 }
 
