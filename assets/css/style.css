@@ -200,14 +200,14 @@ h3 {
 
 .form-container {
     display: grid;
-    grid-template-columns:  repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns:  repeat(auto-fit, minmax(250px, 1fr));
     grid-auto-rows: auto;
-    width: 90%;
+    width: 80%;
     margin: 20px auto;
     gap: 20px;
     overflow: hidden;
     background-color: #f1f1f1;
-    padding: 30px;
+    padding: 20px;
     border-radius: 3px;
 }
 
@@ -216,13 +216,11 @@ h3 {
     flex-direction: column;
     padding: 10px 30px 30px 30px;
     gap: 10px;  
-    background-color: #fcfcfc;
     border-radius: 3px;
 }
 
 label {
-    background-color: #fcfcfc;
-    padding: 30px 30px 0 30px;
+    padding: 10px 30px;
     font-size: 1.1rem;
 }
 
@@ -231,6 +229,7 @@ label {
     border: 1px solid #848c91;
     border-radius: 10px;
     padding: 5px;
+    background-color: #fafafa;
 }
 
 .submit-button:hover {
@@ -240,7 +239,7 @@ label {
 
 iframe {
     object-fit: cover;
-    height: 60%;
+    height: 55%;
     width: 100%;
     border-radius: 3px;
 }
@@ -248,9 +247,10 @@ iframe {
 .contact-info {
     background-color: #fcfcfc;
     border-radius: 3px;
-    padding: 20px;
+    padding: 10px 20px;
     text-align: justify;
     font-size: 1.1rem;
+    margin-bottom: 20px;
 }
 
 .contact-info p {
@@ -265,16 +265,18 @@ iframe {
     margin-right: 5px;
 }
 
+.timetable {
+    background-color: #fcfcfc;
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
 #timetable-label {
     display:block;
     padding-bottom: 10px;
-    padding-left: 0;
-    text-align: center;
-}
-
-.timetable {
-    background-color: #fcfcfc;
-    padding: 0 30px;
+    margin-top: 10px;
     text-align: center;
 }
 
@@ -389,6 +391,7 @@ th, td {
 @media (max-width: 768px) {
     .hero-image-main, .hero-image-classes, .hero-image-contact {
         min-height: 60vh;
+        background-position:right;
     }
 
     .hero-text {
@@ -420,6 +423,10 @@ th, td {
 .search-box {
     display: none;
 }
+
+.testimonials {
+    column-count: 1;
+}
 }
 
 @media screen and (max-width: 900px) {
@@ -430,7 +437,14 @@ th, td {
     }
 
     .timetable {
-        display: none;
+        transform: scale(80%);
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .form-container {
+        padding: 15px 10px;
+        margin: auto;
     }
 }
 
