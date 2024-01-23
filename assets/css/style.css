@@ -429,6 +429,12 @@ th, td {
 }
 }
 
+@media screen and (max-width: 768px) {
+    .class-page-grid {
+        padding: 10px;
+    }
+}
+
 @media screen and (max-width: 900px) {
     .contact-info p {
         padding: 0;
