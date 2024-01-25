@@ -100,7 +100,7 @@ a {
     float: right;
 }
 
-.classes-button {
+.button {
     background-color: #fafafa;
     border: 1px solid #848c91;
     border-radius: 10px;
@@ -108,21 +108,19 @@ a {
     margin-top: 10px;
 }
 
-.classes-button:hover {
+.button:hover {
     background-color: #848c91;
+    color: #fafafa;
 }
 
 .classes-button:hover a {
-    color: #fafafa;
+    
 }
 
 .testimonials {
     display: block;
     column-count: 3;
     column-gap: 10px;
-    /*display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 2;*/
     width: 100%;
     height: auto;
     justify-items: center;
@@ -132,10 +130,6 @@ a {
 }
 
 #testimonials-heading {
-  /*  grid-column-start: 1;
-    grid-column-end: 4;
-    grid-row-start: 1;
-    grid-row-end: 1;*/
     display: flex;
     justify-content: center;
     font-weight: 500;
