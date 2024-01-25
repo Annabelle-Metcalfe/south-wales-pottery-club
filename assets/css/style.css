@@ -69,35 +69,17 @@ a {
 
 /* Home page content --------------------------------------------------*/
 
-.text-column {
-    width: 40%;
-    float: left;
-    padding: 20px;
-    text-align: justify;
-    margin: 20px 20px 20px auto;
-}
-
-.row {
-    --bs-gutter-x: 0;
-}
-
-.row::after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-.image-column {
-    padding: 20px 50px 20px 20px;
-    width: 40%;
-    float: left;
-    margin: 20px  auto 20px 20px;
+.home-page {
+    display: block;
+    column-count: 2;
+    margin: 50px auto;
+    width: 80%;
 }
 
 .house-picture {
-    width: 90%;
+    width: 100%;
     border-radius: 50%;
-    float: right;
+    padding: 50px;
 }
 
 .button {
@@ -451,29 +433,22 @@ footer {
 /* Media Queries - Home Page ------------------------------------------------------*/
 
 @media screen and (max-width: 768px) {
-.text-column {
-    width: 100%;
-    float: left;
-}
-
-.row::after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-.image-column {
-    width: 100%;
-    float: left;
-}
-
-.house-picture {
-    width: 100%;
-}
+    .home-page {
+        column-count: 1;
+        margin: 20px auto;
+        width: 90%;
+    }
 
 .testimonials {
     column-count: 1;
 }
+
+}
+
+@media screen and (max-width: 420px) {
+    .house-picture {
+        padding: 20px;
+    }
 }
 
 /* 320px - Most Smartphones
