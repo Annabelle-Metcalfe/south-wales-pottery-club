@@ -382,7 +382,7 @@ th, td {
 
 /* Media Queries ------------------------------------------------------*/
 
-@media screen and (max-width: 400px) {
+@media screen and (min-width: 480px) {
     .nav-home-page {
     display: none;
     }
@@ -420,10 +420,6 @@ th, td {
     width: 100%;
 }
 
-.search-box {
-    display: none;
-}
-
 .testimonials {
     column-count: 1;
 }
@@ -455,7 +451,7 @@ th, td {
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
 
     h1, hr {
         display: none;
@@ -502,6 +498,12 @@ th, td {
         font-size: 0.8rem;
     }
 }
+
+@media screen and (max-width: 420px) {
+    .nav-home-page {
+        display: block;
+    }
+
 
 @media screen and (max-width: 768px) {
     .gallery {
