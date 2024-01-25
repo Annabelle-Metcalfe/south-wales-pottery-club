@@ -446,7 +446,7 @@ th, td {
     }
 
     .timetable {
-        transform: scale(80%);
+        transform: scale(0.8, 0.8);
     }
 }
 
@@ -496,7 +496,7 @@ th, td {
     }
 
     .timetable {
-        transform: scale(60%);
+        transform: scale(0.6, 0.6);
     }
 
     footer i {
@@ -509,7 +509,7 @@ th, td {
     .nav-home-page {
         display: block;
     }
-
+}
 
 @media screen and (max-width: 768px) {
     .gallery {
