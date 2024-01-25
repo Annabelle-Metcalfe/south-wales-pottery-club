@@ -176,6 +176,12 @@ h3 {
     padding: 20px;
 }
 
+input, textarea {
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+}
+
 .form-container {
     display: grid;
     grid-template-columns:  repeat(auto-fit, minmax(320px, 1fr));
