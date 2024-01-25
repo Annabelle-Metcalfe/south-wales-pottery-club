@@ -9,6 +9,8 @@ body {
     box-sizing: border-box;
 }
 
+/*Responsive background images with Bootstrap 5 tutorial-------------------*/
+
 .hero-image-main {
     background-image: url("/assets/images/background-image.jpg");
     background-size: cover;
@@ -42,9 +44,9 @@ body {
 .hero-text {
     text-align: center;
     position: absolute;
+    font-size: 2rem;
     top: 50%;
     left: 50%;
-    font-size: 150%;
     color: #fafafa;
     transform: translate(-50%, -50%);
     background-color: rgba(0,0,0,0.3);
@@ -161,7 +163,6 @@ h3 {
     color: #6c7074;
 }
 
-
 #contact-button {
     display: flex;
     justify-content: center;
@@ -177,7 +178,7 @@ h3 {
 
 .form-container {
     display: grid;
-    grid-template-columns:  repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns:  repeat(auto-fit, minmax(320px, 1fr));
     grid-auto-rows: auto;
     width: 80%;
     margin: 20px auto;
@@ -257,7 +258,7 @@ iframe {
     text-align: center;
 }
 
-/* Rounded corners tutorial -------------------------------*/
+/* Rounded corners tutorial -------------------------------------------*/
 table {
     --border: 1px solid #848c916b;
     border-radius: 5px;
@@ -410,7 +411,7 @@ footer {
     }
     
     .hero-text {
-        font-size: 80%;
+        font-size: 1rem;
     }  
 
     footer i {
@@ -421,7 +422,7 @@ footer {
 
 @media (max-width: 768px) {
     .hero-image-main, .hero-image-classes, .hero-image-contact {
-        min-height: 60vh;
+        min-height: 40vh;
         background-position:right;
     }
 
@@ -439,10 +440,9 @@ footer {
         width: 90%;
     }
 
-.testimonials {
-    column-count: 1;
-}
-
+    .testimonials {
+        column-count: 1;
+    }
 }
 
 @media screen and (max-width: 420px) {
@@ -450,13 +450,6 @@ footer {
         padding: 20px;
     }
 }
-
-/* 320px - Most Smartphones
-   480px - Large phones/ Small Tablets
-   768px - Tablets/ Small Laptops
-   1024px - Most laptops
-   1280px - Large Desktops
-   */
 
 /* Media Queries - Classes Page ------------------------------------------------------*/
 
@@ -467,17 +460,10 @@ footer {
         padding: 0;
         margin: 0;
     }
-
-    .class-page-grid .class-description {
-        padding: 2em;
-    }
-
      .class-description img {
         transform: scale(0.9, 0.9);
     }
 }
-
-
 
 /* Media Queries - Contact Page ------------------------------------------------------*/
 
@@ -522,6 +508,8 @@ footer {
         transform: scale(0.7, 0.7);
     }
 }
+
+/* Media Queries - Gallery Page ---------------------------------------------*/
 
 @media screen and (max-width: 768px) {
     .gallery {
