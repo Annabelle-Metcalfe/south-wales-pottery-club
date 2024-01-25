@@ -380,9 +380,10 @@ th, td {
     grid-row-end: 17;
 }
 
-/* Media Queries ------------------------------------------------------*/
+/* Media Queries - General ------------------------------------------------------*/
 
-@media screen and (min-width: 480px) {
+
+@media screen and (min-width: 420px) {
     .nav-home-page {
     display: none;
     }
@@ -398,6 +399,8 @@ th, td {
         margin-top: 30px;
     }
 }
+
+/* Media Queries - Home Page ------------------------------------------------------*/
 
 @media screen and (max-width: 768px) {
 .text-column {
@@ -425,11 +428,15 @@ th, td {
 }
 }
 
+/* Media Queries - Classes Page ------------------------------------------------------*/
+
 @media screen and (max-width: 768px) {
     .class-page-grid {
         padding: 10px;
     }
 }
+
+/* Media Queries - Contact Page ------------------------------------------------------*/
 
 @media screen and (max-width: 900px) {
     .contact-info p {
@@ -442,7 +449,6 @@ th, td {
         transform: scale(80%);
     }
 }
-
 
 @media screen and (max-width: 900px) {
     .form-container {
