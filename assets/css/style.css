@@ -163,11 +163,10 @@ footer ul {
     font-weight: 500;
 }
 
-
 /* Classes page -------------------------------------------------------*/
 
 h3 {
-    font-size: 1.3rem;
+    font-size: 1.2em;
 }
 
 .class-page-grid {
@@ -185,7 +184,6 @@ h3 {
 .class-description {
     background-color: #fafafa;
     padding: 2em;
-    text-align: justify;
 }
 
 .class-page-grid img {
@@ -420,10 +418,6 @@ th, td {
     .navbar-brand {
         display: none;
      }
-
-    h2 { 
-        font-size: .9rem;
-    }
     
     footer i {
         padding: 5px 0;
@@ -433,7 +427,7 @@ th, td {
 
 @media (max-width: 768px) {
     .hero-image-main, .hero-image-classes, .hero-image-contact {
-        min-height: 40vh;
+        min-height: 50vh;
         background-position:right;
     }
 
@@ -443,10 +437,6 @@ th, td {
 
     .hero-text {
         margin-top: 30px;
-    }
-
-    h2 {
-        font-size: 1rem;
     }
 }
 
@@ -484,10 +474,10 @@ th, td {
         padding: 15px;
         overflow: auto;
     }
-/*
-    .class-description img {
-        transform: scale(0.9, 0.9);
-    }*/
+
+    .class-description h3 p {
+        font-size: 1rem;
+    }
 }
 
 /* Media Queries - Contact Page ------------------------------------------------------*/
