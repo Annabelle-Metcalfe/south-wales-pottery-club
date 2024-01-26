@@ -540,7 +540,8 @@ th, td {
     .gallery {
         display: block;
         column-count: 2;
-        row-gap: 10px;
+        width: 100%;
+        margin: 0;
     }
 }
 
@@ -548,7 +549,8 @@ th, td {
     .gallery {
         display: block;
         column-count: 1;
-        row-gap: 10px;
+        width: 100%;
+        margin: 0;
     }
 }
 
