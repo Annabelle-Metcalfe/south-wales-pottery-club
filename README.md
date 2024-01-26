@@ -28,7 +28,8 @@
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
-
+![Site Overview](assets/images/readme-images/site-overview.png)
+[South Wales Pottery Club](https://annabelle-metcalfe.github.io/south-wales-pottery-club/index.html)
 
 ## UX - Strategy 
 ### Project Goals
@@ -227,8 +228,6 @@ Screenshots
 * Purchase memberships online
 * Create an online shop to sell student's work
 
-
-
 ## Testing
 03/01/23 - All social links working
 
@@ -254,6 +253,8 @@ Screenshots
 ## Credits
 
 ### Content
+
+[Am I Responsive](https://ui.dev/amiresponsive)
 
 ### Media
 
