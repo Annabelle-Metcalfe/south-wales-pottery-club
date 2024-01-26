@@ -12,7 +12,7 @@ body {
 /*Responsive background images with Bootstrap 5 tutorial-------------------*/
 
 .hero-image-main {
-    background-image: url(/assets/images/background-image.jpg);
+    background-image: url('background-image.jpg');
     background-size: cover;
     min-height: 70vh;
     position: relative;
