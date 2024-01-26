@@ -114,10 +114,14 @@ footer ul {
     width: 80%;
 }
 
+.home-page h3 {
+    padding-bottom: 15px;
+}
+
 .house-picture {
     width: 100%;
     border-radius: 50%;
-    padding: 50px;
+    padding: 0 30px;
 }
 
 .button {
@@ -442,11 +446,15 @@ th, td {
 
 /* Media Queries - Home Page ------------------------------------------------------*/
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
     .home-page {
         column-count: 1;
         margin: 20px auto;
         width: 90%;
+    }
+
+    .house-picture {
+        transform: scale(0.8, 0.8);
     }
 
     .testimonials {
