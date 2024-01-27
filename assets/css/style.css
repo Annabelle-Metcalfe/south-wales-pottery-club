@@ -211,11 +211,6 @@ h3 {
 
 /*Contact Page -----------------------------------------------------*/
 
-.contact-header {
-    text-align: center;
-    padding: 20px;
-}
-
 input, textarea {
     border-radius: 3px;
     border-width: 1px;
@@ -243,9 +238,11 @@ input, textarea {
     border-radius: 3px;
 }
 
-label {
-    padding: 10px 30px;
-    font-size: 1.1rem;
+.contact-message {
+    padding: 5px 20px;
+    margin: 10px;
+    text-align: left;
+    font-weight: bold;
 }
 
 .submit-button {
@@ -263,15 +260,16 @@ label {
 
 iframe {
     object-fit: cover;
-    height: 55%;
+    height: 60%;
     width: 100%;
     border-radius: 3px;
+    margin-top: 20px;
 }
 
 .contact-info {
     background-color: #fcfcfc;
     border-radius: 3px;
-    padding: 10px 20px;
+    padding: 10px 20px 50px 20px;
     text-align: justify;
     font-size: 1.1rem;
     margin-bottom: 20px;
