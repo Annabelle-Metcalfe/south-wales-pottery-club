@@ -1,5 +1,11 @@
 # South Wales Pottery Club
 
+This is the website for South Wales Pottery Club, a hypothetical business in development. The site is the outcome of the Code Institute's milestone project one and designed primarily using html & CSS. Please find a link to the deployed project here:
+
+[South Wales Pottery Club](https://annabelle-metcalfe.github.io/south-wales-pottery-club/index.html)
+
+![Site Overview](assets/images/readme-images/site-overview.png)
+
 ## Contents
 * [UX - Strategy](#ux---strategy)
   * [Project Goals](#project-goals)
@@ -29,9 +35,6 @@
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
-![Site Overview](assets/images/readme-images/site-overview.png)
-[South Wales Pottery Club](https://annabelle-metcalfe.github.io/south-wales-pottery-club/index.html)
-
 ## UX - Strategy 
 ### Project Goals
 
@@ -41,11 +44,7 @@ The business has not yet begun trading so at this time they are looking to estab
 
 The outcome of this project will target consumers appropriately and add value to their experience by utilising UX design principles. The site will be cleanly presented, easy to navigate and encourage enquires through clickable links. The user will also have easy access to all relevant information wihtout having to search through multiple pages. 
 
-### Business Goals
-
-* To create an online presence for the business
-* To attract customers and build membership
-* To provide information on classes, contact information and the location of the studio
+<hr>
 
 ### Competitor Review
 
@@ -71,6 +70,8 @@ While the site is comprehensive and contains a lot of useful information, it cou
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-6.png)
 ![Cardiff Pottery Workshops](assets/images/readme-images/cardiff-workshops-7.png)
 
+<hr>
+
 #### Peggy's Pots
 
 [Peggy's Pots](https://www.peggyspots.co.uk/Default.aspx) is another successful business based in Cardiff. They offer pottery painting experiences and parties for people of all ages, especially catering for families.
@@ -87,6 +88,8 @@ The site has been designed with Bootstrap so seems to avoid any issues with resi
 ![Peggy's Pots](assets/images/readme-images/peggys-pots-3.png)
 ![Peggy's Pots](assets/images/readme-images/peggys-pots-4.png)
 ![Peggy's Pots](assets/images/readme-images/peggys-pots-5.png)
+
+<hr>
 
 #### Stupots 
 
@@ -106,6 +109,16 @@ The booking and contact pages are also well laid out with well proportioned cont
 ![Stupots](assets/images/readme-images/stupots-6.png)
 ![Stupots](assets/images/readme-images/stupots-7.png)
 ![Stupots](assets/images/readme-images/stupots-8.png)
+
+<hr>
+
+### Business Goals
+
+* To create an online presence for the business
+* To attract customers and build membership
+* To provide information on classes, contact information and the location of the studio
+
+<hr>
 
 ### User Goals
 
@@ -145,8 +158,9 @@ successfully impliment CSS grids for layouts and media queries to enable respons
 ### Current Phase
 
 * Build a functioning website to create an online presence for the business 
-* Present class information and timetable 
-* 
+* Present different class types and information on what they are for
+* Provide a means of contacting the business and a timetable 
+* Showcase a gallery of photos to demonstrate how the studio might look
 
 ## UX - Structure
 
@@ -163,7 +177,7 @@ My initial plan was to create a dedicated classes page with further links to ind
 
 ![Site map wireframe](assets/images/wireframes/site-map.png)
 
-## UX - Skeleton Plane
+## UX - Skeleton
 
 ### Wireframes
 
@@ -184,7 +198,7 @@ Contact Page
 ![Contact page wireframe](assets/images/wireframes/contact-page.png)
 
 
-## UX - Surface Plane 
+## UX - Surface
 
 ### Design Choices 
 
