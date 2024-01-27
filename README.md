@@ -252,10 +252,19 @@ Screenshots
 
 ## Testing
 
-| Component | Test | Result |
-|-------------|--------|----------|
-| Footer Links | All links work and open in new window | Pass |
-| Navigation Links | All links work and go to the correct page | Pass |
+| Component | Expected Outcome | Test | Result |
+| --- | --- | --- | --- |
+| Navbar brand | Links to home page | Clicked logo | Pass |
+| Navigation links | All links go to the correct page | Clicked on links | Pass |
+| Footer icons | All links correct and open in new window | Clicked on icons | Pass |
+| Explore classes button | Links to class page | Clicked on button | Pass |
+| Contact us button | Links to contact page | Clicked on button | Pass |
+| Enquire now links | Links to contact page | Clicked on link | Pass |
+| Contact form | All input required | Filled out form | Pass |
+| Contact form | Formdump working | Submit form | Pass |
+| Google map | Shows correct place | Click on map | Pass |
+| Responsiveness | Site works across all breakpoints | Google Dev tools | Pass |
+
 
 
 
