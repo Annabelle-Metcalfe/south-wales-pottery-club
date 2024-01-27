@@ -259,7 +259,15 @@ Screenshots
 * Create an online shop to sell student's work
 
 ## Testing
-03/01/23 - All social links working
+
+| Component | Test | Result |
+|-------------|--------|----------|
+| Footer Links | All links work and open in new window | Pass |
+| Navigation Links | All links work and go to the correct page | Pass |
+
+
+
+
 
 ## Technologies Used
 
