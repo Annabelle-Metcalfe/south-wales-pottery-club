@@ -278,8 +278,13 @@ Screenshots
 | Contact form | Formdump working | Submit form | Pass |
 | Google map | Shows correct place | Click on map | Pass |
 | Responsiveness | Site works across all breakpoints | Google Dev tools | Pass |
+| HTML Validator | Check for errors | Run validator | Pass |
+| CSS Validator | Check for errors | Run validator | Pass |
 
-### HTML Validaiton ###
+### HTML Validation ###
+
+I used W3C Markup Validation service and Jigsaw to ensure there are no errors in the html and CSS. Some errors were found, these were corrected and the validators run again. 
+
 ![Home Page Validation](/assets/images/readme-images/home-page-validation.png)
 
 ### CSS Validation ###
