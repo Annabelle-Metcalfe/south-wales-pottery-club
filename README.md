@@ -293,9 +293,14 @@ On the classes page, I had a lot of difficulty getting the images to sit within 
 
 ![Classes page](/assets/images/readme-images/class-page-first-draft.png)
 
-With the row height set to auto it displayed the whole image but I felt this looked untidy so decided to keep the row height consistent by applying height of 50% to the images. 
+With the row height set to auto it displayed the whole image but I felt this looked untidy so decided to keep the row height consistent. I eventually decided on applying height of 50% to the images. 
 
 ![Classes page](/assets/images/readme-images/class-page-first-draft-2.png)
+
+There were some major problems with the responsiveness on the class page. It was not sitting in the centre and a lot of the content was spilling over the edge. It was resolved by removing the padding and margin from the grid. I then applied padding to the class description content instead so that it would not sit too close to the edge of the screen.
+
+![Classes page](/assets/images/readme-images/class-page-fd-3.png)
+![Classes page](/assets/images/readme-images/class-page-fd-4.png)
 
 ## Technologies Used
 
