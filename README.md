@@ -278,6 +278,7 @@ Screenshots
 | Contact form | Formdump working | Submit form | Pass |
 | Google map | Shows correct place | Click on map | Pass |
 | Responsiveness | Site works across all breakpoints | Google Dev tools | Pass |
+| Lighthouse testing | Check accessibility | Run lighthouse | Pass |
 | HTML Validator | Check for errors | Run validator | Pass |
 | CSS Validator | Check for errors | Run validator | Pass |
 
