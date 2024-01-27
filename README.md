@@ -209,11 +209,6 @@ Initially, I had planned on having more pages and including a dropdown menu with
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-1.png)
 
-I was using Bootstrap at this stage which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. It was around this time I decided to move away from Bootstrap and began to identify other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to display as a block and used column count, then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
-
-![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
-![First draft home page](/assets/images/readme-images/first-draft-home-3.png)
-
 I was planning to use an image as a link to the classes page but since learned this isn't great for accessibility thanks to my mentor. The plan then evolved to encorporate the about section on the home page rather than having a dedicated about page, therefore I changed the image to the picture of a house and included some text about the studio. I also tried changing the background colour, but was not keen on this idea as it was washing out the text so changed it back to slightly off white.
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-4.png)
@@ -222,9 +217,6 @@ I decided to add some testimonials as there didn't feel like there was a whole l
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-5.png)
 
-I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the margin being set to something other than zero.
-
-![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
 
 #### Classes Page
 
@@ -283,6 +275,15 @@ Screenshots
 * GIMP
 
 ## Known Bugs
+
+I was using Bootstrap at first which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. I decided to move away from Bootstrap and looked at other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to display as a block and used column count, then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
+
+![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
+![First draft home page](/assets/images/readme-images/first-draft-home-3.png)
+
+I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the margin being set to something other than zero.
+
+![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
 
 ## Deployment
 
