@@ -265,10 +265,16 @@ Screenshots
 | Google map | Shows correct place | Click on map | Pass |
 | Responsiveness | Site works across all breakpoints | Google Dev tools | Pass |
 
+## Known Bugs
 
+I was using Bootstrap at first which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. I decided to move away from Bootstrap and looked at other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to display as a block and used column count, then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
 
+![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
+![First draft home page](/assets/images/readme-images/first-draft-home-3.png)
 
+I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the margin being set to something other than zero.
 
+![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
 
 ## Technologies Used
 
@@ -282,17 +288,6 @@ Screenshots
 * Google Fonts
 * Font Awesome
 * GIMP
-
-## Known Bugs
-
-I was using Bootstrap at first which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. I decided to move away from Bootstrap and looked at other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to display as a block and used column count, then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
-
-![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
-![First draft home page](/assets/images/readme-images/first-draft-home-3.png)
-
-I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the margin being set to something other than zero.
-
-![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
 
 ## Deployment
 
