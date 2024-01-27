@@ -184,10 +184,6 @@ footer ul {
     font-size: 1.2rem;
 }
 
-.class-description p {
-    font-size: inherit;
-}
-
 .class-page-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
