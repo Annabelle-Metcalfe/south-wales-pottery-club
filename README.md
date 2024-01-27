@@ -279,6 +279,12 @@ Screenshots
 | Google map | Shows correct place | Click on map | Pass |
 | Responsiveness | Site works across all breakpoints | Google Dev tools | Pass |
 
+### HTML Validaiton ###
+![Home Page Validation](/assets/images/readme-images/home-page-validation.png)
+
+### CSS Validation ###
+![CSS Validation](assets/images/readme-images/css-validation.png)
+
 ## Known Bugs
 
 ### Home Page
