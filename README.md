@@ -223,7 +223,7 @@ Initially, I had planned on having more pages and including a dropdown menu with
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-1.png)
 
-I was planning to use an image as a link to the classes page but since learned this isn't great for accessibility thanks to my mentor. The plan then evolved to encorporate the about section on the home page rather than having a dedicated about page, therefore I changed the image to the picture of a house and included some text about the studio. I also tried changing the background colour, but was not keen on this idea as it was washing out the text so changed it back to slightly off white.
+I was planning to use an image as a link to the classes page but since learned this isn't great for accessibility thanks to my mentor. The plan then evolved to encorporate the about section on the home page rather than having a dedicated about page, therefore I changed the image to the picture of a house and included some text about the studio.
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-4.png)
 
@@ -284,11 +284,18 @@ Screenshots
 I was using Bootstrap at first which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. I decided to move away from Bootstrap and looked at other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to display as a block and used column count, then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
-![First draft home page](/assets/images/readme-images/first-draft-home-3.png)
 
 I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the margin being set to something other than zero.
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
+
+On the classes page, I had a lot of difficulty getting the images to sit within the containers.I tried lots of different combinations to solve this, it was eventually solved by setting the object fit property to cover and setting the height and width of the images.
+
+![Classes page](/assets/images/readme-images/class-page-first-draft.png)
+
+With the row height set to auto it displayed the whole image but I felt this looked untidy so decided to keep the row height consistent by applying height of 50% to the images. 
+
+![Classes page](/assets/images/readme-images/class-page-first-draft-2.png)
 
 ## Technologies Used
 
