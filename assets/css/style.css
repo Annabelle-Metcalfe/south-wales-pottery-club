@@ -278,7 +278,6 @@ iframe {
     background-color: #fcfcfc;
     border-radius: 3px;
     padding: 10px 20px 50px 20px;
-    font-size: 1.1rem;
     margin-bottom: 20px;
 }
 
@@ -310,6 +309,7 @@ iframe {
 }
 
 /* Rounded corners tutorial -------------------------------------------*/
+
 table {
     --border: 1px solid #848c916b;
     border-radius: 5px;
@@ -477,7 +477,6 @@ th, td {
     }
 }
 
-
 @media screen and (max-width: 1200px) {
     .home-page {
         column-count: 1;
@@ -496,7 +495,9 @@ th, td {
 
 @media screen and (max-width: 420px) {
     .home-page {
-        margin: 20px auto;
+        width: 100%;
+        margin: 0 auto;
+        padding: 20px;
     }
 
     .image-column {
@@ -512,7 +513,7 @@ th, td {
 
 /* Media Queries - Classes Page ------------------------------------------------------*/
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1600px) {
     .class-page-grid {
         width: 60%;
         margin: 50px;
@@ -528,12 +529,8 @@ th, td {
     }
 
     .class-description {
-        padding: 15px;
+        padding: 20px;
         overflow: auto;
-    }
-
-    .class-description h3 p {
-        font-size: 1rem;
     }
 }
 
@@ -543,7 +540,6 @@ th, td {
     .contact-info p {
         padding: 0;
         text-align: left;
-        font-size: 1rem;
     }
 }
 
@@ -567,14 +563,6 @@ th, td {
     .contact-form {
         padding: 10px;
     } 
-
-    .contact-form label {
-        font-size: 0.7rem;
-    }
-
-    .contact-info {
-        font-size: 0.7rem;
-    }
 
     .timetable {
         transform: scale(0.7, 0.7);
