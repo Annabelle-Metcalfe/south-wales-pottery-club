@@ -148,7 +148,6 @@ footer ul {
     height: auto;
     justify-items: center;
     margin: auto;
-    color:#fcfcfc;
     padding: 0 20px;
 }
 
@@ -162,9 +161,11 @@ footer ul {
 
 .testimonials p {
     font-style: italic;
-    background-color: #848c91;
+    background-color: #535f64;
+    color:#fcfcfc;
     padding: 20px;
-    font-weight: 500;
+    border-radius: 2px;
+    font-weight: 550;
 }
 
 /* Classes page -------------------------------------------------------*/
