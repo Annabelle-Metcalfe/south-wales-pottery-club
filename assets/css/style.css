@@ -179,8 +179,12 @@ footer ul {
 
 /* Classes page -------------------------------------------------------*/
 
-h3 {
-    font-size: 1.2em;
+.class-description h3 {
+    font-size: 1.2rem;
+}
+
+.class-description p {
+    font-size: 1rem;
 }
 
 .class-page-grid {
@@ -534,7 +538,7 @@ th, td {
     }
 
     h3 {
-        font-size: 1em;
+        font-size: 1rem;
     }
     
 }
