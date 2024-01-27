@@ -515,8 +515,8 @@ th, td {
 
 @media screen and (min-width: 1600px) {
     .class-page-grid {
-        width: 60%;
-        margin: 50px;
+        width: 70%;
+        margin: 50px auto;
     }
 }
 
@@ -532,6 +532,11 @@ th, td {
         padding: 20px;
         overflow: auto;
     }
+
+    h3 {
+        font-size: 1em;
+    }
+    
 }
 
 /* Media Queries - Contact Page ------------------------------------------------------*/
