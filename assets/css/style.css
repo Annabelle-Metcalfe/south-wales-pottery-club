@@ -446,11 +446,18 @@ th, td {
 
 /* Media Queries - Home Page ------------------------------------------------------*/
 
+@media screen and (min-width: 1600px) {
+    .home-page {
+        width: 70%;
+    }
+}
+
+
 @media screen and (max-width: 1200px) {
     .home-page {
         column-count: 1;
         margin: 20px auto;
-        width: 90%;
+        width: 80%;
     }
 
     .house-picture {
@@ -463,12 +470,29 @@ th, td {
 }
 
 @media screen and (max-width: 420px) {
+    .home-page {
+        margin: 20px auto;
+    }
+
+    .image-column {
+        margin: 20px auto;
+    }
+
     .house-picture {
         padding: 20px;
+        transform: scale(1, 1);
+        object-fit: fill;
     }
 }
 
 /* Media Queries - Classes Page ------------------------------------------------------*/
+
+@media screen and (min-width: 1200px) {
+    .class-page-grid {
+        width: 60%;
+        margin: 50px;
+    }
+}
 
 @media screen and (max-width: 480px) {
     .class-page-grid {
