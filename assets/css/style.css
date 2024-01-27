@@ -583,6 +583,10 @@ th, td {
         width: 100%;
         margin: 0;
     }
+
+    .gallery img {
+        margin: 5px;
+    }
 }
 
 @media screen and (max-width: 420px) {
