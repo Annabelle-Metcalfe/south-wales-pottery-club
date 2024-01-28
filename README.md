@@ -251,8 +251,6 @@ I was using Bootstrap at first which was causing there to be too many columns on
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
 
-
-
 ### Classes Page
 
 When I started building the class page grid the class descriptions were sitting in their own grid area. I felt this could be improved upon as it wasn't immediately obvious the description and the image were connected. This was resolved by containing all the content of each class description in a "div" as only direct decendents become grid items.
@@ -280,7 +278,9 @@ It was a bit challenging figuring out how to position the images on the gallery 
 
 ### Contact Page
 
+When building the contact page I tried to put the timetable within the grid which initially seemed to work. However, once testing the responsiveness it spilled out of the container and the grid did not resize as it was supposed to. I tried putting making it span across two columns but this was also ineffective. I eventually removed it from the grid entirely and placed it underneath. 
 
+![Timetable error](/assets/images/readme-images/contact-page-error-1.png)
 
 
 ### After Deployment
@@ -291,7 +291,9 @@ When I deployed the project to Github Pages the background images disappeared. T
 
 ## Bugs Unresolved
 
+When dropping down to a small screen the timetable heading does not site directly above the timetable. I cannot find the reason for this, neither the timetable nor the heading seem to have any padding or margin set that would cause it to behave this way so this has remained unresolved.
 
+![Unresolved timetable heading error](/assets/images/readme-images/timetable-unresolved.png)
 
 ## Testing
 
