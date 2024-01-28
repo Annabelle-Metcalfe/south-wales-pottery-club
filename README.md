@@ -334,6 +334,10 @@ There was also a stray "div" which I removed to resolve this error.
 
 ![Html error 4](/assets/images/readme-images/html-error-4.png)
 
+There are some warnings present on the contact page where I have applied aria-labels to the font awesome icons in lieu of titles. This did not show up on Lighthouse or Wave testing so I decided to leave them in. 
+
+![Html warning 1](/assets/images/readme-images/html-warning-1.png)
+
 ![Home Page Validation](/assets/images/readme-images/home-page-validation.png)
 
 ### CSS Validation ###
