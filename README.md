@@ -197,32 +197,10 @@ I decided to add some testimonials as there didn't feel like there was a whole l
 ![Home page features](/assets/images/readme-images/home-page-3.png)
 
 
-#### Classes Page
+### Classes Page
 
 This page was probably the most challenging of them all as I had quite a lot of trouble with the responsiveness.
 
-
-## Features
-
-### Current Features
-
-
-Screenshots
-
-* Home page with hero image
-* Navitagion to:
-  * About section
-  * Classes
-  * Gallery
-  * Timetable
-  * Contact
-* Class sub navigation:
-  * Children's classes page
-  * Adult's begginner classes page
-  * Adult's improver classes page
-  * Wellbeing classes page
-  * Events page
-  
 ### Future Features
 
 * Book classes online
