@@ -329,6 +329,13 @@ It was a bit challenging figuring out how to position the images on the gallery 
 
 ![First draft gallery page](/assets/images/readme-images/gallery-page-fd.png)
 
+
+### Deployment
+
+When I deployed the project to Github Pages the background images disappeared. They were still visible locally, and all the other images were working so I knew there must be an issue with the CSS file. I looked on a number of forums where others had had the same issue and dicovered it was an issue with the filepath. I tweaked it a few times until the images appeared.
+
+![Deployment error](/assets/images/readme-images/deployment-error.png)
+
 ## Bugs Unresolved
 
 
