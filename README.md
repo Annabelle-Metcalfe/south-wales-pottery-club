@@ -318,7 +318,21 @@ Screenshots
 
 I used W3C Markup Validation service and Jigsaw to ensure there are no errors in the html and CSS. 
 
-On the initial test an error was found where I had used an <a> element as a decendent of a <button>. I tried swapping them around and came back with the same error. I had not realised that a button could not be used for a link before this. I removed the button and simply left the <a> element with the styling applied in CSS. It looks the same but now comes back with no error.
+On the initial test an error was found where I had used an "a" element as a decendent of a "button." I tried swapping them around and came back with the same error. I had not realised that a button could not be used for a link before this. I removed the button and simply left the "a" element with the styling applied in CSS. It looks the same and has the same functionality but now comes back with no error.
+
+![Html error 1](/assets/images/readme-images/html-error-1.png)
+
+I had missed closing a "div" on a few of the pages. I added that in and that resolved the error.
+
+![Html error 2](/assets/images/readme-images/html-error-2.png)
+
+The validator also found that I had mislabled the contact form. I eventually got rid of the lable altogether and used a "h3" element instead as it was more semantic.
+
+![Html error 3](/assets/images/readme-images/html-error-3.png)
+
+There was also a stray "div" which I removed to resolve this error.
+
+![Html error 4](/assets/images/readme-images/html-error-4.png)
 
 ![Home Page Validation](/assets/images/readme-images/home-page-validation.png)
 
