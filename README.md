@@ -452,12 +452,14 @@ Many thanks to all the creators of the free stock images used to create this web
 
 ### Code
 
+Further thanks and deep gratitude to the creators of the extremely informative tutorials which helped to build this site. Also to the creators of Bootstrap for providing the framework for the Navbar used in this site. Links to these resources can be found here: <br>
+
 [Rounded corners tutorial](https://unused-css.com/blog/css-rounded-table-corners/#:~:text=If%20you%20are%20only%20rounding,done%20with%20a%20box%2Dshadow%20.)
 
-[Responsive background images with Bootstrap 5](https://www.youtube.com/watch?v=W87XNjvXiWw&t=178s)
-
-[Bootstrap Navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
+[Responsive background images with Bootstrap 5 tutorial](https://www.youtube.com/watch?v=W87XNjvXiWw&t=178s)
 
 [Autofit CSS grids tutorial](https://www.youtube.com/watch?v=QO-vcJFRgOg)
 
 [Image gallery with CSS grids tutorial](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
+
+[Bootstrap Navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
