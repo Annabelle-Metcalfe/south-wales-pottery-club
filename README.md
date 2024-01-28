@@ -229,17 +229,29 @@ The contact page features a contact form, address, phone number and email addres
 
 ## Bugs Resolved
 
-### Home Page
+### Navbar 
 
-I was using Bootstrap at first which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. I decided to move away from Bootstrap and looked at other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to display as a block and used column count, then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
+When adjusting the screen size the "navbar brand" was not fitting along with the rest of the menu, forcing it to split over two lines. I set "navbar brand" to not display on small screens which solved this, however there was then no link to the index page on the navigation menu. I added an index page link to the menu and set that to be hidden on larger screens. This enabled full navigation across all screen sizes.
 
-![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
+![Navbar error](/assets/images/readme-images/navbar-error-1.png)
+
+I wanted the hamburger menu to sit in the right hand side of the screen, but not the navbar brand. I applied "d-flex" to the nav items to enable this, however the navigation then became stuck open and due to time constraints I decided to change it back. This is something I may wish to look at again in the future if I revisit this project.
+
+![Navbar error](/assets/images/readme-images/navbar-error-2.png)
 
 ### Footer
 
 I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the margin being set to something other than zero.
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
+
+### Home Page
+
+I was using Bootstrap at first which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. I decided to move away from Bootstrap and looked at other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to display as a block and used column count, then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
+
+![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
+
+
 
 ### Classes Page
 
