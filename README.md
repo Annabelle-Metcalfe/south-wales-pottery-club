@@ -298,6 +298,12 @@ When dropping down to a small screen the timetable heading does not sit directly
 
 ## Testing
 
+The website has been tested on the following devices:
+* Asus laptop running Windows 10
+* Samsung Gallaxy S22
+* Iphone 14
+* Ipad 7th Gen
+
 | Component | Expected Outcome | Test | Result |
 | --- | --- | --- | --- |
 | Navbar brand | Links to home page | Clicked logo | Pass |
