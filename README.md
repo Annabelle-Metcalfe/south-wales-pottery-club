@@ -214,6 +214,11 @@ This page contains a static gallery built with CSS grids. I did not include a he
 
 ### Contact Page
 
+The contact page features a contact form, address, phone number and email address, google map and a timetable.
+
+![Contact page features](/assets/images/readme-images/contact-page-1.png)
+![Contact page features](/assets/images/readme-images/contact-page-2.png)
+![Contact page features](/assets/images/readme-images/contact-page-3.png)
 
 ### Future Features
 
