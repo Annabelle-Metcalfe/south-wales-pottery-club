@@ -99,7 +99,7 @@ successfully impliment CSS grids for layouts and media queries to enable respons
 
 **Navigation**
 
-My initial plan was to create a dedicated classes page with further links to individual classes. However, after discussing this with my mentor it was decided at this stage to focus on a single class page. In the future, if I was to develop this site further I would revisit this plan, create dedicated class pages and add more detail to the class descriptions. I would also look again at creating an events page which would be periodically updated by the business.
+My initial plan was to create a dedicated classes page with further links to individual classes. However, after discussing this with my mentor it was decided at this stage to focus on a single class page. In the future, if I was to develop this site further I would revisit this plan, create dedicated class pages and add more detail to the class descriptions. I would also look again at creating an events page which would be periodically updated by the business and add a booking system. Please note I used Balsamiq to create the first wireframe drafts and then moved over to Whimsical which is why the format is so different.
 
 **First draft site map**
 ![First draft site map](assets/images/first-draft-wireframes/site-map.png)
@@ -235,17 +235,19 @@ I was using Bootstrap at first which was causing there to be too many columns on
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
 
+### Footer
+
 I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the margin being set to something other than zero.
 
 ![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
 
 ### Classes Page
 
-When I started building the class page grid the class descriptions were sitting in their own grid area. I felt this could be improved upon as it wasn't immediately obvious the description and the image were connected. This was resolved by containing all the content of each class description in a "div" as only direct decendents become grid elements.
+When I started building the class page grid the class descriptions were sitting in their own grid area. I felt this could be improved upon as it wasn't immediately obvious the description and the image were connected. This was resolved by containing all the content of each class description in a "div" as only direct decendents become grid items.
 
 ![First draft classes page](/assets/images/readme-images/class-page-fd-1.png)
 
-Once I had got the image and description to be contained as a single grid item I had a lot of difficulty getting the images to sit within the containers. I tried lots of different combinations to solve this, it was eventually solved by setting the object fit property to cover and setting the height and width of the images.
+Once I got the image and description to be contained as a single grid item I had a lot of difficulty getting the images to sit within the containers. I tried lots of different combinations to solve this, it was eventually solved by setting the object fit property to cover and setting the height and width of the images.
 
 ![First draft classes page](/assets/images/readme-images/class-page-first-draft.png)
 
