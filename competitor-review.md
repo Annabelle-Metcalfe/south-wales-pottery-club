@@ -1,6 +1,6 @@
 # South Wales Pottery Club - Competitor Review
 
-#### Cardiff Pottery Workshops 
+## Cardiff Pottery Workshops 
 
  [Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com) are a successful business based in Cardiff. They have  wide range of classes and membership options available including lessons, studio space for rent and social evenings.
  
@@ -24,7 +24,7 @@ While the site is comprehensive and contains a lot of useful information, it cou
 
 <hr>
 
-#### Peggy's Pots
+## Peggy's Pots
 
 [Peggy's Pots](https://www.peggyspots.co.uk/Default.aspx) is another successful business based in Cardiff. They offer pottery painting experiences and parties for people of all ages, especially catering for families.
 
@@ -43,7 +43,7 @@ The site has been designed with Bootstrap so seems to avoid any issues with resi
 
 <hr>
 
-#### Stupots 
+## Stupots 
 
 [Stupots](https://www.stupots.co.uk/) is a pottery workshop based in Bristol. They offer a wide range of classes and experiences including corporate team building sessions.
 
