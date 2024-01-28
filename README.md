@@ -48,6 +48,8 @@ The outcome of this project will target consumers appropriately and add value to
 
 ### Competitor Review
 
+Please see details of the research conducted [here](/competitor-review.md)
+
 #### Cardiff Pottery Workshops 
 
  [Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com) are a successful business based in Cardiff. They have  wide range of classes and membership options available including lessons, studio space for rent and social evenings.
@@ -330,9 +332,9 @@ It was a bit challenging figuring out how to position the images on the gallery 
 ![First draft gallery page](/assets/images/readme-images/gallery-page-fd.png)
 
 
-### Deployment
+### After Deployment
 
-When I deployed the project to Github Pages the background images disappeared. They were still visible locally, and all the other images were working so I knew there must be an issue with the CSS file. I looked on a number of forums where others had had the same issue and dicovered it was an issue with the filepath. I tweaked it a few times until the images appeared.
+When I deployed the project to Github Pages the background images disappeared. They were still visible locally, and all the other images were working so I knew there must be an issue with the CSS file. I looked on a number of forums where others had had the same issue and dicovered it was an issue with the filepath. Github Pages was not recognising the URL so I tweaked it a few times until the images appeared.
 
 ![Deployment error](/assets/images/readme-images/deployment-error.png)
 
