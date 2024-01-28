@@ -184,6 +184,7 @@ footer ul {
     font-size: 1.2rem;
 }
 
+/* Autofit CSS grid tutorial ------------------------------------------*/
 .class-page-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -311,7 +312,6 @@ iframe {
 }
 
 /* Rounded corners tutorial -------------------------------------------*/
-
 table {
     --border: 1px solid #848c916b;
     border-radius: 5px;
@@ -329,6 +329,7 @@ th, td {
 
 /* Gallery Page -------------------------------------------------------*/
 
+/* Image gallery with CSS grids tutorial ------------------------------*/
 .gallery {
     display: grid;
     grid-template-columns: repeat(10, 1fr);

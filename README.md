@@ -354,7 +354,7 @@ It was a bit challenging figuring out how to position the images on the gallery 
 
 I used W3C Markup Validation service and Jigsaw to ensure there are no errors in the html and CSS. 
 
-On the initial test an error was found where I had used an "a" element as a decendent of a "button." I tried swapping them around and came back with the same error. I had not realised that a button could not be used for a link before this. I removed the button and simply left the "a" element with the styling applied in CSS. It looks the same and has the same functionality but now comes back with no error.
+On the initial W3C Validator test an error was found where I had used an "a" element as a decendent of a "button." I tried swapping them around and came back with the same error. I had not realised that a button could not be used for a link before this. I removed the button and simply left the "a" element with the styling applied in CSS. It looks the same and has the same functionality but now comes back with no error.
 
 ![Html error 1](/assets/images/readme-images/html-error-1.png)
 
@@ -380,7 +380,7 @@ There are a number of info flags present in the validation. Most are relating to
 
 ### CSS Validation ###
 
-The validator found an error where I had used an invalid value with the transform property. I changed the value from a percentage to a decimal which resolved the error.
+The Jigsaw validator found an error where I had used an invalid value with the transform property. I changed the value from a percentage to a decimal which resolved the error.
 
 The parse error was an unclosed media query near the end of the document. 
 
@@ -458,4 +458,6 @@ Many thanks to all the creators of the free stock images used to create this web
 
 [Bootstrap Navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
 
-[Autofit CSS Grids](https://www.youtube.com/watch?v=QO-vcJFRgOg)
+[Autofit CSS grids tutorial](https://www.youtube.com/watch?v=QO-vcJFRgOg)
+
+[Image gallery with CSS grids tutorial](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
