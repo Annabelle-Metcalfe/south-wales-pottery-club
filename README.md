@@ -314,6 +314,31 @@ When dropping down to a small screen the timetable heading does not sit directly
 | HTML Validator | Check for errors | Run validator | Pass |
 | CSS Validator | Check for errors | Run validator | Pass |
 
+## Lighthouse Testing 
+
+### Home Page
+
+On the initial lighthouse test I had a number of findings to address. I had not yet added aria-labels to the images and also had not used "h1, h2" etc in chronoligical order. This also improved the SEO score.
+
+![Home page lighthouse](/assets/images/readme-images/home-page-lh-1.png)
+
+When I added the testimonials I initially had the background set to the same colour as the footer but this was returning a contrast error. I tried changing the font to bolder but this looked strange compared to the rest of the website. I settled on making the backgrounds darker, although not ideal visually it did fix the contrast error.
+
+![Home page lighthouse](/assets/images/readme-images/home-page-lh-2.png)
+
+The final lighthouse score for the home page is displayed below. I was able to improve the performance slightly by compressing the image files.
+
+![Home page lighthouse](/assets/images/readme-images/home-page-lh-3.png)
+
+
+### Classes Page
+
+### Gallery Page
+
+### Contact Page
+
+
+
 ### HTML Validation ###
 
 I used W3C Markup Validation service and Jigsaw to ensure there are no errors in the html and CSS. 
