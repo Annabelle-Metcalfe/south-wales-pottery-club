@@ -366,6 +366,15 @@ Updated score
 
 ![Contact page lighthouse](/assets/images/readme-images/contact-lh-2.png)
 
+### Responsiveness 
+
+Responsiveness was checked both on Google Developer Tools and on [Am I Responsive](https://ui.dev/amiresponsive).
+
+![Site Overview](/assets/images/readme-images/site-overview.png)
+![Site Overview](/assets/images/readme-images/class-page-ov.png)
+![Site Overview](/assets/images/readme-images/contact-page-ov.png)
+![Site Overview](/assets/images/readme-images/gallery-page-ov.png)
+
 
 ### HTML Validation ###
 
