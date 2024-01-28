@@ -198,7 +198,7 @@ Finally I changed the styling of the footer from light to dark to make it stand 
 
 ### Classes Page
 
-The classes page contains six key class types identified through competitor review. Each class has a relevant image and a short description. At the bottom of this page there is a link to the contact page to encourage user engagement.
+The classes page contains six key class types identified through competitor review. Each class has a relevant image and a short description. I used images which promote an emotional response such as people working together as this would help users get a feel for the atmosphere at the studio. At the bottom of this page there is a link to the contact page to encourage user engagement. 
 
 ![Class page features](/assets/images/readme-images/class-page-1.png)
 ![Class page features](/assets/images/readme-images/class-page-2.png)
@@ -214,7 +214,7 @@ This page contains a static gallery built with CSS grids. I did not include a he
 
 ### Contact Page
 
-The contact page features a contact form, address, phone number and email address, google map and a timetable.
+The contact page features all the relevant information a user might need to get in touch with the business and find the studio. There is a contact form, address, phone number, email address, google map and a timetable. This could potentially be added to in the future to incoporate a booking form or calander.
 
 ![Contact page features](/assets/images/readme-images/contact-page-1.png)
 ![Contact page features](/assets/images/readme-images/contact-page-2.png)
@@ -222,10 +222,11 @@ The contact page features a contact form, address, phone number and email addres
 
 ### Future Features
 
-* Add individual class pages
-* Book classes online
-* Purchase memberships online
+* Add individual class pages and more detailed descriptions
+* Add functionality to enable booking classes online
+* Add an option to purchase memberships online
 * Create an online shop to sell student's work
+* Update the gallery and/or testimonials to make them more interactive
 
 ## Bugs Resolved
 
@@ -291,7 +292,7 @@ When I deployed the project to Github Pages the background images disappeared. T
 
 ## Bugs Unresolved
 
-When dropping down to a small screen the timetable heading does not site directly above the timetable. I cannot find the reason for this, neither the timetable nor the heading seem to have any padding or margin set that would cause it to behave this way so this has remained unresolved.
+When dropping down to a small screen the timetable heading does not sit directly above the timetable. I cannot find the reason for this, neither the timetable nor the heading seem to have any padding or margin set that would cause it to behave this way so this has remained unresolved.
 
 ![Unresolved timetable heading error](/assets/images/readme-images/timetable-unresolved.png)
 
