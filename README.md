@@ -208,6 +208,13 @@ The classes page contains six key class types identified through competitor revi
 
 This page contains a static gallery built with CSS grids. I did not include a hero image or title on this page as it seemed unneccessary and would interfere with the intended UX of the page.
 
+![Gallery page features](/assets/images/readme-images/gallery-page-1.png)
+![Gallery page features](/assets/images/readme-images/gallery-page-2.png)
+![Gallery page features](/assets/images/readme-images/gallery-page-3.png)
+
+### Contact Page
+
+
 ### Future Features
 
 * Add individual class pages
