@@ -1,3 +1,5 @@
+# South Wales Pottery Club - Competitor Review
+
 #### Cardiff Pottery Workshops 
 
  [Cardiff Pottery Workshops](https://www.cardiffpotteryworkshops.com) are a successful business based in Cardiff. They have  wide range of classes and membership options available including lessons, studio space for rent and social evenings.
