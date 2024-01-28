@@ -330,13 +330,35 @@ The final lighthouse score for the home page is displayed below. I was able to i
 
 ![Home page lighthouse](/assets/images/readme-images/home-page-lh-3.png)
 
-
 ### Classes Page
+
+The first lighthouse test for the class page came back with similar issues for the aria-labels and headings but the main issue was the performance as there are a lot of images on this page. I compressesed the images unitl the score was satisfactory/.
+
+![Class page lighthouse](/assets/images/readme-images/class-page-lh-1.png)
+
+Updated score
+
+![Class page lighthouse](/assets/images/readme-images/class-page-lh-2.png)
 
 ### Gallery Page
 
+Again the gallery images were missing aria-labels, after these were added the score improved. I had already compressed the images as I was going along so the performance was at a level I was happy with for the number of images.
+
+![Gallery page lighthouse](/assets/images/readme-images/gallery-lh-1.png)
+
+Updated score
+
+![Gallery page lighthouse](/assets/images/readme-images/gallery-lh-2.png)
+
 ### Contact Page
 
+The contact page also had the same issues as pervious pages. The best practice score is slightly lower due to a cookie relating to the Google map.
+
+![Contact page lighthouse](/assets/images/readme-images/contact-lh-1.png)
+
+Updated score 
+
+![Contact page lighthouse](/assets/images/readme-images/contact-lh-2.png)
 
 
 ### HTML Validation ###
