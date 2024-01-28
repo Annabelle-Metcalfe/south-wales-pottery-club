@@ -338,12 +338,23 @@ There are some warnings present on the contact page where I have applied aria-la
 
 ![Html warning 1](/assets/images/readme-images/html-warning-1.png)
 
-There are a number of info flags present in the validation. Some are relating to the code for external frameworks including Bootstrap and Google Fonts. Others are relating to comments that I have put in the code. These have been left in as they do not efect functionality.
+There are a number of info flags present in the validation. Most are relating to the metadata, code for external frameworks including Bootstrap and Google Fonts or comments that I have put in the code. These have been left in as they do not effect functionality.
 
 ![Home Page Validation](/assets/images/readme-images/home-page-validation.png)
 
 ### CSS Validation ###
 
+The validator found an error where I had used an invalid value with the transform property. I changed the value from a percentage to a decimal which resolved the error.
+
+The parse error was an unclosed media query near the end of the document. 
+
+![CSS error 1](/assets/images/readme-images/css-error-1.png)
+
+This warning was returned, but as it does not effect functionality it was left as is.
+
+![CSS error 2](/assets/images/readme-images/css-error-2.png)
+
+After fixing these errors the validator returned a result of no errors.
 
 ![CSS Validation](assets/images/readme-images/css-validation.png)
 
