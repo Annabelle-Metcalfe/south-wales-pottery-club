@@ -338,9 +338,13 @@ There are some warnings present on the contact page where I have applied aria-la
 
 ![Html warning 1](/assets/images/readme-images/html-warning-1.png)
 
+There are a number of info flags present in the validation. Some are relating to the code for external frameworks including Bootstrap and Google Fonts. Others are relating to comments that I have put in the code. These have been left in as they do not efect functionality.
+
 ![Home Page Validation](/assets/images/readme-images/home-page-validation.png)
 
 ### CSS Validation ###
+
+
 ![CSS Validation](assets/images/readme-images/css-validation.png)
 
 ## Bugs Resolved
