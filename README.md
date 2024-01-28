@@ -182,7 +182,7 @@ My initial plan was to create a dedicated classes page with further links to ind
 
 **Home Page**
 
-Initially I planned to just have a hero image on the landing page with some information on the studio. Users would of had to use the navigation menu to access any other parts of the site. The revised version is much more user friendly and inclueds links to other pages directly from the about section.
+Initially I planned to just have a hero image on the landing page with some information on the studio. Users would of had to use the navigation menu to access any other parts of the site. The revised version is much more user friendly and includes links to other pages directly from the about section.
 
 **First draft home page**
 
@@ -316,7 +316,9 @@ Screenshots
 
 ### HTML Validation ###
 
-I used W3C Markup Validation service and Jigsaw to ensure there are no errors in the html and CSS. Some errors were found, these were corrected and the validators run again. 
+I used W3C Markup Validation service and Jigsaw to ensure there are no errors in the html and CSS. 
+
+On the initial test an error was found where I had used an <a> element as a decendent of a <button>. I tried swapping them around and came back with the same error. I had not realised that a button could not be used for a link before this. I removed the button and simply left the <a> element with the styling applied in CSS. It looks the same but now comes back with no error.
 
 ![Home Page Validation](/assets/images/readme-images/home-page-validation.png)
 
