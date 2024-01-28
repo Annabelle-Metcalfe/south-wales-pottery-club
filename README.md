@@ -296,6 +296,42 @@ Screenshots
 * Purchase memberships online
 * Create an online shop to sell student's work
 
+## Bugs Resolved
+
+### Home Page
+
+I was using Bootstrap at first which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. I decided to move away from Bootstrap and looked at other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to display as a block and used column count, then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
+
+![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
+
+I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the margin being set to something other than zero.
+
+![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
+
+### Classes Page
+
+On the classes page, I had a lot of difficulty getting the images to sit within the containers.I tried lots of different combinations to solve this, it was eventually solved by setting the object fit property to cover and setting the height and width of the images.
+
+![First draft classes page](/assets/images/readme-images/class-page-first-draft.png)
+
+With the row height set to auto it displayed the whole image but I felt this looked untidy so decided to keep the row height consistent. I eventually decided on applying height of 50% to the images. 
+
+![First draft classes page](/assets/images/readme-images/class-page-first-draft-2.png)
+
+There were some major problems with the responsiveness on the class page. It was not sitting in the centre and a lot of the content was spilling over the edge. It was resolved by removing the padding and margin from the grid. I then applied padding to the class description content instead so that it would not sit too close to the edge of the screen.
+
+![First draft classes page](/assets/images/readme-images/class-page-fd-3.png)
+![First draft classes page](/assets/images/readme-images/class-page-fd-4.png)
+
+### Gallery Page
+
+It was a bit challenging figuring out how to position the images on the gallery grid. Sometimes they were stretched or didn't fit where I had hoped to place them. I tried different layouts before deciding on the final draft. 
+
+![First draft gallery page](/assets/images/readme-images/gallery-page-fd.png)
+
+## Bugs Unresolved
+
+
 ## Testing
 
 | Component | Expected Outcome | Test | Result |
@@ -357,41 +393,6 @@ This warning was returned, but as it does not effect functionality it was left a
 After fixing these errors the validator returned a result of no errors.
 
 ![CSS Validation](assets/images/readme-images/css-validation.png)
-
-## Bugs Resolved
-
-### Home Page
-
-I was using Bootstrap at first which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. I decided to move away from Bootstrap and looked at other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to display as a block and used column count, then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
-
-![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
-
-I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the margin being set to something other than zero.
-
-![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
-
-### Classes Page
-
-On the classes page, I had a lot of difficulty getting the images to sit within the containers.I tried lots of different combinations to solve this, it was eventually solved by setting the object fit property to cover and setting the height and width of the images.
-
-![First draft classes page](/assets/images/readme-images/class-page-first-draft.png)
-
-With the row height set to auto it displayed the whole image but I felt this looked untidy so decided to keep the row height consistent. I eventually decided on applying height of 50% to the images. 
-
-![First draft classes page](/assets/images/readme-images/class-page-first-draft-2.png)
-
-There were some major problems with the responsiveness on the class page. It was not sitting in the centre and a lot of the content was spilling over the edge. It was resolved by removing the padding and margin from the grid. I then applied padding to the class description content instead so that it would not sit too close to the edge of the screen.
-
-![First draft classes page](/assets/images/readme-images/class-page-fd-3.png)
-![First draft classes page](/assets/images/readme-images/class-page-fd-4.png)
-
-### Gallery Page
-
-It was a bit challenging figuring out how to position the images on the gallery grid. Sometimes they were stretched or didn't fit where I had hoped to place them. I tried different layouts before deciding on the final draft. 
-
-![First draft gallery page](/assets/images/readme-images/gallery-page-fd.png)
-
-## Bugs Unresolved
 
 ## Technologies Used
 
