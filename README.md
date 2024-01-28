@@ -201,10 +201,19 @@ Finally I changed the styling of the footer from light to dark to make it stand 
 
 ### Classes Page
 
-This page was probably the most challenging of them all as I had quite a lot of trouble with the responsiveness.
+The classes page contains six key class types identified through competitor review. Each class has a relevant image and a short description. At the bottom of this page there is a link to the contact page to encourage user engagement.
+
+![Class page features](/assets/images/readme-images/class-page-1.png)
+![Class page features](/assets/images/readme-images/class-page-2.png)
+![Class page features](/assets/images/readme-images/class-page-3.png)
+
+### Gallery Page
+
+This page contains a static gallery built with CSS grids. I did not include a hero image or title on this page as it seemed unneccessary and would interfere with the intended UX of the page.
 
 ### Future Features
 
+* Add individual class pages
 * Book classes online
 * Purchase memberships online
 * Create an online shop to sell student's work
