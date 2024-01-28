@@ -241,7 +241,11 @@ I had some initial trouble with the footer floating above the bottom of the page
 
 ### Classes Page
 
-On the classes page, I had a lot of difficulty getting the images to sit within the containers.I tried lots of different combinations to solve this, it was eventually solved by setting the object fit property to cover and setting the height and width of the images.
+When I started building the class page grid the class descriptions were sitting in their own grid area. I felt this could be improved upon as it wasn't immediately obvious the description and the image were connected. This was resolved by containing all the content of each class description in a "div" as only direct decendents become grid elements.
+
+![First draft classes page](/assets/images/readme-images/class-page-fd-1.png)
+
+Once I had got the image and description to be contained as a single grid item I had a lot of difficulty getting the images to sit within the containers. I tried lots of different combinations to solve this, it was eventually solved by setting the object fit property to cover and setting the height and width of the images.
 
 ![First draft classes page](/assets/images/readme-images/class-page-first-draft.png)
 
@@ -260,6 +264,10 @@ It was a bit challenging figuring out how to position the images on the gallery 
 
 ![First draft gallery page](/assets/images/readme-images/gallery-page-fd.png)
 
+### Contact Page
+
+
+
 
 ### After Deployment
 
@@ -268,6 +276,7 @@ When I deployed the project to Github Pages the background images disappeared. T
 ![Deployment error](/assets/images/readme-images/deployment-error.png)
 
 ## Bugs Unresolved
+
 
 
 ## Testing
