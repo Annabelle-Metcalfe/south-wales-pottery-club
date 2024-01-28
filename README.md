@@ -194,18 +194,39 @@ Initially I planned to just have a hero image on the landing page with some info
 
 **Classes Page**
 
-In the first draft I intended to have a landing page for all the classes and then a dedicated page for each class. After discussing this with my mentor 
+In the first draft I intended to have a landing page for all the classes and then a dedicated page for each class. After discussing this with my mentor I decided to streamline the design to incorporate one classes page with short class descriptions. In the future if I was to develop this site further I would revisit the seperate class pages and include more detailed class descriptions.
+
+**First draft classes page**
+
+![First draft classes page](assets/images/first-draft-wireframes/classes-page.png)
+
+**Revised classes page**
 
 ![Classes page wireframe](assets/images/wireframes/class-page.png)
 
-Gallery Page
+**Gallery Page**
+
+Initially I has planned to use Bootstrap to create the gallery which would of enabled the use of Javascript and provided more options with interactitvity. However as I moved away from Bootstrap I needed to find another solution and used CSS grids to create a static gallery.
+
+**First draft gallery page** 
+
+![First draft gallery page](assets/images/first-draft-wireframes/gallery-page.png)
+
+**Revised gallery page**
 
 ![Gallery page wireframe](assets/images/wireframes/gallery-page.png)
 
-Contact Page
+**Contact Page**
+
+The contact page did not change an awful lot compared to the first draft, except I decided to include a timetable as well as the other components. I had some trouble with the layout which meant the timetable eventually had to go at the bottom of the page, I will discuss this further in the resolved bugs section.
+
+**First draft contact page**
+
+![First draft contact page](assets/images/first-draft-wireframes/contact-page.png)
+
+**Revised contact page**
 
 ![Contact page wireframe](assets/images/wireframes/contact-page.png)
-
 
 ## UX - Surface
 
@@ -302,7 +323,7 @@ I used W3C Markup Validation service and Jigsaw to ensure there are no errors in
 ### CSS Validation ###
 ![CSS Validation](assets/images/readme-images/css-validation.png)
 
-## Known Bugs
+## Bugs Resolved
 
 ### Home Page
 
@@ -334,6 +355,8 @@ There were some major problems with the responsiveness on the class page. It was
 It was a bit challenging figuring out how to position the images on the gallery grid. Sometimes they were stretched or didn't fit where I had hoped to place them. I tried different layouts before deciding on the final draft. 
 
 ![First draft gallery page](/assets/images/readme-images/gallery-page-fd.png)
+
+## Bugs Unresolved
 
 ## Technologies Used
 
