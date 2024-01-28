@@ -184,13 +184,15 @@ I chose to use a hero image on each page to keep the format consistent across th
 
 ## Features
 
-### Home page
+### Home Page & General
 
-Initially, I had planned on having more pages and including a dropdown menu within the navigation bar for the individual class pages. However as previously mentioned after discussing this with my mentor it was decided to streamline the number of pages and concentrate on the key elements needed to achieve a functioning site.
+Initially, I had planned on having more pages and including a dropdown menu within the navigation bar for the individual class pages. However as previously mentioned after discussing this with my mentor it was decided to streamline the number of pages and concentrate on the key elements needed to achieve a functioning site. Therefore, the navigation menu consists of four relevant pages. I used Bootstrap's "navbar brand" in place of a logo, which would be changed at a later date if I was to develop this site further.
 
-I was planning to use an image as a link to the classes page but since learned this isn't great for accessibility thanks to my mentor. The plan then evolved to encorporate the about section on the home page rather than having a dedicated about page, therefore I changed the image to the picture of a house and included some text about the studio.
+At first I was planning to use an image as a link to the classes page but since learned this isn't great for accessibility thanks to my mentor. The plan then evolved to encorporate the about section on the home page rather than having a dedicated about page. This would make the landing page more user friendly and take away the need for excess pages at this stage. I changed the image to the picture of a house to depict the studio and included some text about the business. I then added the link to the classes page at the bottom of the about section in the style of a button and also included a link within the text to the contact page to encourage clicks through to other pages.
 
-I decided to add some testimonials as there didn't feel like there was a whole lot on this page and it seemed to make sense to include them on the landing page where users would be very likely to see them. I also changed the styling of the footer to make it stand out better against the background.
+It didn't seem like there was a whole lot on this page so I decided to add some testimonials. It made sense from a UX perspective to include them on the landing page where users would be very likely to see them. These are static due to technological limitiations at the moment but could be made more interactive in the future.
+
+Finally I changed the styling of the footer from light to dark to make it stand out better against the background when scrolling. I chose to use the sticky property on the footer as it creates a positive UX experience.
 
 ![Home page features](/assets/images/readme-images/home-page-1.png)
 ![Home page features](/assets/images/readme-images/home-page-2.png)
