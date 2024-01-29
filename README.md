@@ -43,39 +43,35 @@ The outcome of this project will target consumers appropriately and add value to
 
 ### Competitor Review
 
-Please see details of the research conducted [here](/competitor-review.md)
+Please see details of the competitor research conducted [here](/competitor-review.md).
 
 ### Business Goals
 
-* To create an online presence for the business
-* To attract customers and build membership
-* To provide information on classes, contact information and the location of the studio
+* Create an online presence for the business
+* Attract customers and build membership
+* Build a social media following
 
 ### User Goals
 
-Based on the competitor research, a number of key features have been identified. Users of the site will be able to:
-
-* Browse different classes and events
-* Find class and event timetables
+* Browse information on different classes
+* Find a timetable for the classes
 * Find the location of the studio
 * Find contact information for the business
 * View a gallery of the studio in action
-* View information on the benefits of pottery for wellbeing
+* View the site on mobile devices
+* Follow the business on social media
 
 ### User Stories
 
-* User 1 is looking for new activities to do with the kids over the school holidays
+* Charles is looking for a new hobby and is considering trying a pottery class so would like to find out if there are any in his area.
 
-* User 2 is looking for a new hobby and the opportunity to make new friends
+* Emma is looking for new activities for her children and would like to find out class timetables.
 
-* User 3 is an intermediate potter looking to improve their skills
+* Bronwen has been doing some pottery for some time and is looking for a new studio space, she would like to enquire about long term membership.
 
-* User 4 is looking for fun new date night ideas
+* Michelle is looking for a unique experience gift and would like some more information on how to book.
 
-* User 5 is looking for a unique experience gift for a loved one
-
-* User 6 was referred by the local mental health team
-
+* Graham was referred by the local mental health team and is anxious about joining so would like to see photos of the studio before enquiring.
 
 ## UX - Scope
 
