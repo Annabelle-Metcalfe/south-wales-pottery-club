@@ -479,15 +479,15 @@ To clone the repository:
 
 ### Content
 
-[Am I Responsive](https://ui.dev/amiresponsive)
+* All the placeholder text featured in the site was written by myself.
 
-[Kera Cudmore Readme Examples](https://github.com/kera-cudmore/readme-examples)
+* [Am I Responsive](https://ui.dev/amiresponsive) was used to generate the site overview images.
+
+* [Kera Cudmore Readme Examples](https://github.com/kera-cudmore/readme-examples) gratefully provided the structure of the deployment steps.
 
 ### Media
 
-Map 
-
-[Google Maps](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19876.57543532705!2d-3.6157785047719218!3d51.4843713332673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e6da60f85f263%3A0x50d8b23d4977cb0!2sEwenny%2C%20Bridgend%20CF35%205BL!5e0!3m2!1sen!2suk!4v1704639927687!5m2!1sen!2suk)
+[Google Maps](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19876.57543532705!2d-3.6157785047719218!3d51.4843713332673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e6da60f85f263%3A0x50d8b23d4977cb0!2sEwenny%2C%20Bridgend%20CF35%205BL!5e0!3m2!1sen!2suk!4v1704639927687!5m2!1sen!2suk) provided the map on the contact page.
 
 Images
 
@@ -529,3 +529,7 @@ Further thanks and deep gratitude to the creators of the extremely informative t
 [Image gallery with CSS grids tutorial](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 
 [Bootstrap Navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
+
+## Acknowledgements
+
+Particular thanks to my mentor [Luke Buchanan](https://github.com/luke-buchanan) for guiding me through this project and to all CI staff and fellow students for their input both on Slack and in our weekly standups.
