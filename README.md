@@ -91,10 +91,7 @@ successfully impliment CSS grids for layouts and media queries to enable respons
 
 My initial plan was to create a dedicated classes page with further links to individual classes. However, after discussing this with my mentor it was decided at this stage to focus on a single class page. In the future, if I was to develop this site further I would revisit this plan, create dedicated class pages and add more detail to the class descriptions. I would also look again at creating an events page which would be periodically updated by the business and add a booking system. Please note I used Balsamiq to create the first wireframe drafts and then moved over to Whimsical which is why the format is so different.
 
-**First draft site map**
-![First draft site map](assets/images/first-draft-wireframes/site-map.png)
-
-**Revised site map**
+The first draft wireframes can be viewed [here](/first-draft-wireframes.md).
 
 ![Site map wireframe](assets/images/wireframes/site-map.png)
 
@@ -106,23 +103,11 @@ My initial plan was to create a dedicated classes page with further links to ind
 
 Initially I planned to just have a hero image on the landing page with some information on the studio. Users would of had to use the navigation menu to access any other parts of the site. The revised version is much more user friendly and includes links to other pages directly from the about section.
 
-**First draft home page**
-
-![First draft home page](assets/images/first-draft-wireframes/home-page.png)
-
-**Revised home page**
-
 ![Home page wireframe](assets/images/wireframes/home-page.png)
 
 **Classes Page**
 
 In the first draft I intended to have a landing page for all the classes and then a dedicated page for each class. After discussing this with my mentor I decided to streamline the design to incorporate one classes page with short class descriptions. In the future if I was to develop this site further I would revisit the seperate class pages and include more detailed class descriptions.
-
-**First draft classes page**
-
-![First draft classes page](assets/images/first-draft-wireframes/classes-page.png)
-
-**Revised classes page**
 
 ![Classes page wireframe](assets/images/wireframes/class-page.png)
 
@@ -130,23 +115,11 @@ In the first draft I intended to have a landing page for all the classes and the
 
 Initially I has planned to use Bootstrap to create the gallery which would of enabled the use of Javascript and provided more options with interactitvity. However as I moved away from Bootstrap I needed to find another solution and used CSS grids to create a static gallery.
 
-**First draft gallery page** 
-
-![First draft gallery page](assets/images/first-draft-wireframes/gallery-page.png)
-
-**Revised gallery page**
-
 ![Gallery page wireframe](assets/images/wireframes/gallery-page.png)
 
 **Contact Page**
 
 The contact page did not change an awful lot compared to the first draft, except I decided to include a timetable as well as the other components. I had some trouble with the layout which meant the timetable eventually had to go at the bottom of the page, I will discuss this further in the resolved bugs section.
-
-**First draft contact page**
-
-![First draft contact page](assets/images/first-draft-wireframes/contact-page.png)
-
-**Revised contact page**
 
 ![Contact page wireframe](assets/images/wireframes/contact-page.png)
 
