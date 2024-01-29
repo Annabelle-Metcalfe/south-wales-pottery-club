@@ -37,7 +37,7 @@ The goal of this project is to create a static user-centric website for an up an
 
 ### Competitor Review
 
-Please see details of the competitor research conducted [here](/competitor-review.md).
+Please see details of the competitor research conducted [here](/COMPETITOR-REVIEW.md).
 
 ### User Stories
 
@@ -171,7 +171,6 @@ It didn't seem like there was a whole lot on this page so I decided to add some 
 ![Home page features](/assets/images/readme-images/home-page-2.png)
 ![Home page features](/assets/images/readme-images/home-page-3.png)
 
-
 ### Classes Page
 
 The classes page contains six key class types identified through competitor review. Each class has a relevant image and a short description. I used images which promote an emotional response such as people working together as this would help users get a feel for the atmosphere at the studio. At the bottom of this page there is a link to the contact page to encourage user engagement. 
@@ -195,6 +194,12 @@ The contact page features all the relevant information a user might need to get 
 ![Contact page features](/assets/images/readme-images/contact-page-1.png)
 ![Contact page features](/assets/images/readme-images/contact-page-2.png)
 ![Contact page features](/assets/images/readme-images/contact-page-3.png)
+
+### 404 Page
+
+Finally, I added a 404 page in case of errors. I chose a picture of a broken plate as it is quite humorous and relates back to the theme of pottery. I used Canva to adjust the colours.
+
+![404 Page](/assets/images/readme-images/404-page.png)
 
 ### Future Features
 
