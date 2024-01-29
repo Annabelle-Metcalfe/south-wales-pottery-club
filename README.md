@@ -7,30 +7,35 @@ This is the website for South Wales Pottery Club, a hypothetical business in dev
 ![Site Overview](assets/images/readme-images/site-overview.png)
 
 ## Contents
-* [UX - Strategy](#ux---strategy)
+- [UX - Strategy](#ux---strategy)
   * [Project Goals](#project-goals)
-  * [Business Goals](#business-goals)
   * [Competitor Review](#competitor-review)
-  * [User Goals](#user-goals)
   * [User Stories](#user-stories)
-* [UX - Scope](#ux---scope)
+- [UX - Scope](#ux---scope)
   * [Limitations Identified](#limitations-identified)
-  * [Current Phase](#current-phase)
-* [UX - Structure](#ux---structure)
+- [UX - Structure](#ux---structure)
   * [Sitemap](#sitemap)
-* [UX - Skeleton Plane](#ux---skeleton-plane)
+- [UX - Skeleton](#ux---skeleton-plane)
   * [Wireframes](#wirerames)
-* [UX - Surface Plane](#ux---surface-plane)
+- [UX - Surface](#ux---surface-plane)
   * [Design Choices](#design-choices)
    * [Colour Palette](#colour-pallette)
    * [Typography](#typography)
-   * [Layout](#layout)
-  * [Features](#current-features)
-* [Testing](#testing)
-* [Known Bugs](#known-bugs)
-* [Deployment](#deployment)
-* [Technologies Used](#technologies-used)
-* [Acknowledgements](#acknowledgements)
+   * [Imagery](#imagery)
+  * [Features](#features)
+  * [Future Features](#future-features)
+- [Bugs Resolved](#bugs-resolved)
+- [Bugs Unresolved](#bugs-unresolved)
+- [Testing](#testing)
+  * [Manual Testing](#manual-testing-table)
+  * [Lighthouse Testing](#lighthouse-testing)
+  * [Responsiveness](#responsiveness)
+  * [HTML Validation](#html-validation)
+  * [CSS Validation](#css-validation)
+- [Deployment](#deployment)
+- [Technologies Used](#technologies-used)
+- [Credits](#credits)
+- [Acknowledgements](#acknowledgements)
 
 ## UX - Strategy 
 ### Project Goals
@@ -312,6 +317,8 @@ The website has been tested on the following devices:
 * Samsung Gallaxy S22
 * Iphone 14
 * Ipad 7th Gen
+
+### Manual Testing Table
 
 | Component | Expected Outcome | Test | Result |
 | --- | --- | --- | --- |
