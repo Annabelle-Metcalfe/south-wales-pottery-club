@@ -35,7 +35,7 @@ This is the website for South Wales Pottery Club, a hypothetical business in dev
 ## UX - Strategy 
 ### Project Goals
 
-The goal of this project is to create a static user-centric website for an up and coming pottery class business in South Wales. The business has not yet begun trading so at this time they are looking to establish an online presence ahead of their launch. The outcome of this project will add value to user experience by utilising UX design principles. The site will be cleanly presented, easy to navigate and encourage enquires through clickable links. 
+The goal of this project is to create a static user-centric website for an up and coming pottery class business in South Wales. The business has not yet begun trading so at this time they are looking to establish an online presence ahead of their launch. To achieve this, the project will evaluate similar businesses and establish effective UX principles. The site will be cleanly presented, easy to navigate, encourage enquires through clickable links and viewable on all devices.
 
 ### Competitor Review
 
@@ -77,13 +77,6 @@ It is not possible to implement all desired features at this stage for a number 
 
 I have used Bootstrap to enable a responsive menu in the design but chosen to limit the use of this framework in other areas of the site. The reason for this decision is that I wished to have a good understanding of CSS and did not want to always be reliant on Bootstrap to help with responsiveness. The outcome of this has been learning to 
 successfully impliment CSS grids for layouts and media queries to enable responsiveness.
-
-### Current Phase
-
-* Build a functioning website to create an online presence for the business 
-* Present different class types and a description on what they are 
-* Provide a means of contacting the business and a class timetable 
-* Showcase a gallery of photos to demonstrate how the studio might look
 
 ## UX - Structure
 
