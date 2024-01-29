@@ -46,11 +46,11 @@ Please see details of the competitor research conducted [here](/COMPETITOR-REVIE
 
 * Emma is looking for new activities for her children and would like to find out class timetables.
 
-* Bronwen has been doing some pottery for some time and is looking for a new studio space, she would like to enquire about long term membership.
+* Bronwen has been doing pottery for some time and is looking for a new studio space, she would like to enquire about long term membership.
 
 * Michelle is looking for a unique experience gift and would like some more information on how to book.
 
-* Graham was referred by the local mental health team and is anxious about joining so would like to see photos of the studio before enquiring.
+* Graham was referred by the local mental health team and is anxious about joining so would like to see photos of the studio to get a feel for it before enquiring.
 
 ### Business Goals
 
@@ -159,7 +159,7 @@ Initially I had styled the footer in the same way as the navbar but decided to m
 
 **Hero Text**
 
-I have used the same format hero text across all the pages bar the gallery page. I followed a [tutorial](https://www.youtube.com/watch?v=W87XNjvXiWw&t=178s) to enable the text and hero image to sit in the right area.
+I have used the same format hero text across all the pages bar the gallery page. I followed a [tutorial](https://www.youtube.com/watch?v=W87XNjvXiWw&t=178s) to enable the text and hero image to sit in the right area. I used an overlay to ensure that the font would be legible and provide enough contrast.
 
 ![Hero Text](/assets/images/readme-images/hero-text.png)
 
@@ -167,9 +167,9 @@ I have used the same format hero text across all the pages bar the gallery page.
 
 At first I was planning to use an image as a link to the classes page but since learned this isn't great for accessibility thanks to my mentor. The plan then evolved to incorporate the about section on the home page rather than having a dedicated about page. This makes the landing page more user friendly and takes away the need for excess pages.
 
-I changed the image to the picture of a house to depict the studio and included some text about the business. I then added a link to the classes page at the bottom of the about section in the style of a button. The button has a `hover` effect applied to ensure positive interaction. I also included a link within the text to the contact page to further encourage clicks through to other pages. 
+I changed the image to the picture of a house to depict the studio and included some text about the business. I then added a link to the classes page at the bottom of the about section in the style of a button. The button has a `hover` effect applied to ensure positive interaction. I also included a link to the contact page within the text hightlighted in `bold`.
 
-I added testimonials to the bottom of the home page as it made sense from a UX perspective to include them here where users would be very likely to see them.
+I added testimonials to the bottom of the home page as it made sense from a UX perspective to include them there where users would be very likely to see them.
 
 ![Home page features](/assets/images/readme-images/home-page-1.png)
 ![Home page features](/assets/images/readme-images/home-page-2.png)
@@ -292,7 +292,7 @@ To clone the repository:
 
 [Google Maps](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19876.57543532705!2d-3.6157785047719218!3d51.4843713332673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e6da60f85f263%3A0x50d8b23d4977cb0!2sEwenny%2C%20Bridgend%20CF35%205BL!5e0!3m2!1sen!2suk!4v1704639927687!5m2!1sen!2suk) provided the map on the contact page.
 
-Images
+**Images**
 
 Many thanks to all the creators of the free stock images used to create this website. Links to the source for each image are available below: <br>
 [Background Image Main](https://www.pexels.com/photo/person-holding-wooden-rolling-pin-7559748/) |
@@ -321,7 +321,7 @@ Many thanks to all the creators of the free stock images used to create this web
 
 ### Code
 
-Further thanks to the creators of the extremely informative tutorials which helped to build this site. Also to the creators of Bootstrap for providing the framework for the Navbar used in this site. Links to these resources can be found here: <br>
+Further thanks to the creators of the extremely informative tutorials which helped to build this site. Also to the creators of Bootstrap for providing the framework for the Navbar. Links to these resources can be found here: <br>
 
 [Rounded corners tutorial](https://unused-css.com/blog/css-rounded-table-corners/#:~:text=If%20you%20are%20only%20rounding,done%20with%20a%20box%2Dshadow%20.)
 
