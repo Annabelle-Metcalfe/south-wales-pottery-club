@@ -34,7 +34,7 @@
 
 ### Home Page
 
-On the initial lighthouse test I had a number of findings to address. I had not yet added aria-labels to the images and also had not used "h1, h2" etc in chronoligical order. This also improved the SEO score.
+On the initial lighthouse test I had a number of findings to address. I had not yet added aria-labels to the images and also had not used `h1`, `h2` etc in chronoligical order. Fixing these issues improved both the accessibility and the SEO score.
 
 ![Home page lighthouse](/assets/images/readme-images/home-page-lh-1.png)
 
@@ -48,7 +48,7 @@ The final lighthouse score for the home page is displayed below. I was able to i
 
 ### Classes Page
 
-The first lighthouse test for the class page came back with similar issues for the aria-labels and headings but the main issue was the performance as there are a lot of images on this page. I compressesed the images unitl the score was satisfactory/.
+The first lighthouse test for the class page came back with similar issues for the aria-labels and headings but the main issue was the performance as there are a lot of images on this page. I compressed the images unitl the score was satisfactory without compromising the quailty of the images.
 
 ![Class page lighthouse](/assets/images/readme-images/class-page-lh-1.png)
 
@@ -90,19 +90,19 @@ Responsiveness was checked both on Google Developer Tools and on [Am I Responsiv
 
 I used W3C Markup Validation service and Jigsaw to ensure there are no errors in the html and CSS. 
 
-On the initial W3C Validator test an error was found where I had used an "a" element as a decendent of a "button." I tried swapping them around and came back with the same error. I had not realised that a button could not be used for a link before this. I removed the button and simply left the "a" element with the styling applied in CSS. It looks the same and has the same functionality but now comes back with no error.
+On the initial W3C Validator test an error was found where I had used an `a` element as a decendent of a `button`. I tried swapping them around but it came back with the same error. I had not realised that a button could not be used for a link before this. I removed the button and simply left the `a` element with the styling applied in CSS. It looks the same and has the same functionality but now comes back with no error.
 
 ![Html error 1](/assets/images/readme-images/html-error-1.png)
 
-I had missed closing a "div" on a few of the pages. I added that in and that resolved the error.
+I had missed closing a `div` on a few of the pages. I added that in and that resolved the error.
 
 ![Html error 2](/assets/images/readme-images/html-error-2.png)
 
-The validator also found that I had mislabled the contact form. I eventually got rid of the lable altogether and used a "h3" element instead as it was more semantic.
+The validator also found that I had mislabled the contact form. I eventually got rid of the lable altogether and used a `h3` element instead as it was more semantic.
 
 ![Html error 3](/assets/images/readme-images/html-error-3.png)
 
-There was also a stray "div" which I removed to resolve this error.
+There was also a stray `div` which I removed to resolve this error.
 
 ![Html error 4](/assets/images/readme-images/html-error-4.png)
 
