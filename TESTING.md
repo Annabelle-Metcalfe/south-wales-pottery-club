@@ -78,7 +78,7 @@ Updated score
 
 ### Responsiveness 
 
-Responsiveness was checked both on Google Developer Tools and on [Am I Responsive](https://ui.dev/amiresponsive).
+Responsiveness was checked both on Google Developer Tools and on [Am I Responsive](https://ui.dev/amiresponsive). Bugs encountered are discussed in the resolved bugs section.
 
 ![Site Overview](/assets/images/readme-images/site-overview.png)
 ![Site Overview](/assets/images/readme-images/class-page-ov.png)
@@ -88,7 +88,7 @@ Responsiveness was checked both on Google Developer Tools and on [Am I Responsiv
 
 ### HTML Validation ###
 
-I used W3C Markup Validation service and Jigsaw to ensure there are no errors in the html and CSS. 
+I used W3C Markup Validation service and Jigsaw to ensure there are no errors in the HTML and CSS. 
 
 On the initial W3C Validator test an error was found where I had used an `a` element as a decendent of a `button`. I tried swapping them around but it came back with the same error. I had not realised that a button could not be used for a link before this. I removed the button and simply left the `a` element with the styling applied in CSS. It looks the same and has the same functionality but now comes back with no error.
 
@@ -134,7 +134,7 @@ After fixing these errors the validator returned a result of no errors.
 
 ### Navbar 
 
-When adjusting the screen size the `navbar-brand` was not fitting along with the rest of the menu, forcing it to split over two lines. I used CSS to set `navbar-brand` to not display on small screens which solved this, however there was then no link to the index page on the navigation menu. I added an index page link to the menu and set that to be hidden on larger screens. This enabled full navigation across all screen sizes.
+When adjusting the screen size the `navbar-brand` was not fitting along with the rest of the menu, forcing it to split over two lines. I applied CSS `display: none` to the navbar-brand so that it does not display on small screens which solved this, however there was then no link to the index page on the navigation menu. I added an index page link to the menu and set that to be hidden on larger screens. This enabled full navigation across all screen sizes.
 
 ![Navbar error](/assets/images/readme-images/navbar-error-1.png)
 
@@ -185,7 +185,7 @@ To make the gallery responsive I used a media query to apply `display: block` an
 
 ### Contact Page
 
-When building the contact page I tried to put the timetable within the grid which initially seemed to work. However, once testing the responsiveness it spilled out of the container and the grid did not resize as it was supposed to. I tried putting making it span across two columns but this was also ineffective. I eventually removed it from the grid entirely and placed it underneath. 
+When building the contact page I tried to put the timetable within the grid which initially seemed to work. However, once testing the responsiveness it spilled out of the container and the grid did not resize as it was supposed to. I tried setting it to span across two columns but this was also ineffective. I eventually removed it from the grid entirely and placed it underneath. 
 
 ![Timetable error](/assets/images/readme-images/contact-page-error-1.png)
 
