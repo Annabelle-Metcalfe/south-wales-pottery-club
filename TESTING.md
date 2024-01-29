@@ -2,6 +2,8 @@
 
 ## Testing
 
+### Contents
+
 * [Manual Testing](#manual-testing-table)
 * [Lighthouse Testing](#lighthouse-testing)
 * [Responsiveness](#responsiveness)

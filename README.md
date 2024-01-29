@@ -24,14 +24,7 @@ This is the website for South Wales Pottery Club, a hypothetical business in dev
    * [Imagery](#imagery)
   * [Features](#features)
   * [Future Features](#future-features)
-- [Bugs Resolved](#bugs-resolved)
-- [Bugs Unresolved](#bugs-unresolved)
 - [Testing](#testing)
-  * [Manual Testing](#manual-testing-table)
-  * [Lighthouse Testing](#lighthouse-testing)
-  * [Responsiveness](#responsiveness)
-  * [HTML Validation](#html-validation)
-  * [CSS Validation](#css-validation)
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
@@ -91,7 +84,7 @@ successfully impliment CSS grids for layouts and media queries to enable respons
 
 My initial plan was to create a dedicated classes page with further links to individual classes. However, after discussing this with my mentor it was decided at this stage to focus on a single class page. In the future, if I was to develop this site further I would revisit this plan, create dedicated class pages and add more detail to the class descriptions. I would also look again at creating an events page which would be periodically updated by the business and add a booking system. Please note I used Balsamiq to create the first wireframe drafts and then moved over to Whimsical which is why the format is so different.
 
-The first draft wireframes can be viewed [here](/first-draft-wireframes.md).
+The first draft wireframes can be viewed [here](/FD-WIREFRAMES.md).
 
 ![Site map wireframe](assets/images/wireframes/site-map.png)
 
@@ -211,78 +204,6 @@ The contact page features all the relevant information a user might need to get 
 * Create an online shop to sell student's work
 * Update the gallery and/or testimonials to make them more interactive
 
-## Bugs Resolved
-
-### Navbar 
-
-When adjusting the screen size the `navbar-brand` was not fitting along with the rest of the menu, forcing it to split over two lines. I used CSS to set `navbar-brand` to not display on small screens which solved this, however there was then no link to the index page on the navigation menu. I added an index page link to the menu and set that to be hidden on larger screens. This enabled full navigation across all screen sizes.
-
-![Navbar error](/assets/images/readme-images/navbar-error-1.png)
-
-I wanted the hamburger menu to sit in the right hand side of the screen, but not the navbar brand. I applied `d-flex` to the nav items to enable this, however the navigation then became stuck open and due to time constraints I decided to change it back. This is something I may wish to look at again in the future if I revisit this project.
-
-![Navbar error](/assets/images/readme-images/navbar-error-2.png)
-
-### Footer
-
-I had some initial trouble with the footer floating above the bottom of the page when I wanted it to be sticky. I eventually worked out it was due to the `margin` being set to something other than zero.
-
-![First draft home page](/assets/images/readme-images/first-draft-home-6.png)
-
-### Home Page
-
-I was using Bootstrap at first which was causing there to be too many columns on the page. The heading was also sitting on the same line as the paragraph. I decided to move away from Bootstrap and looked at other ways of organising the layouts using CSS only. Inititally, I followed a tutorial which involved displaying the content as a table and using float/clear properties but I still felt there must be a better way. Eventually I changed it to `display: block` and used `column-count` then applied a media query to enable responsiveness as this seemed like the smoothest solution. I could of also used a grid, but didn't feel it was particularly neccessary for just two components.
-
-![First draft home page](/assets/images/readme-images/first-draft-home-2.png)
-
-### Classes Page
-
-When I started building the class page grid the class descriptions were sitting in their own grid area. I felt this could be improved upon as it wasn't immediately obvious the description and the image were connected. This was resolved by containing all the content of each class description in a `div` as only direct decendents become grid items.
-
-![First draft classes page](/assets/images/readme-images/class-page-fd-1.png)
-
-Once I got the image and description to be contained as a single grid item I had a lot of difficulty getting the images to sit within the containers. I tried lots of different combinations to solve this, it was eventually solved by setting the `object-fit` property to `cover` and setting the height and width of the images.
-
-![First draft classes page](/assets/images/readme-images/class-page-first-draft.png)
-
-Before I set the height and width of the images, with `grid-template-rows` set to `auto` it displayed the whole image but I felt this looked untidy. To keep the size of the rows consistent it was neccessary to set the height and width of the images. I eventually decided on applying height of 50% to the images as this worked best on all screen sizes.
-
-![First draft classes page](/assets/images/readme-images/class-page-first-draft-2.png)
-
-There were some major problems with the responsiveness on the classes page. It was not sitting in the centre and a lot of the content was spilling over the edge. It was resolved by removing the `padding` and `margin` from the grid. I then applied padding to the class description content instead so that it would not sit too close to the edge of the screen.
-
-![First draft classes page](/assets/images/readme-images/class-page-fd-3.png)
-![First draft classes page](/assets/images/readme-images/class-page-fd-4.png)
-
-### Gallery Page
-
-It was a bit challenging figuring out how to position the images on the gallery grid. Sometimes they were stretched or didn't fit where I had hoped to place them. I tried different layouts before deciding on the final draft. 
-
-![First draft gallery page](/assets/images/readme-images/gallery-page-fd.png)
-
-To make the gallery responsive I used a media query to apply `display: block` and `column-count,` rather than designing a whole new grid as it seemed more efficient to do it this way. However, as it was no longer a grid the gap between the rows no longer applied so the images were all crammed together. I eventually discovered setting the images to have a `margin` resolved this.
-
-![Gallery error](/assets/images/readme-images/gallery-error-2.png)
-
-### Contact Page
-
-When building the contact page I tried to put the timetable within the grid which initially seemed to work. However, once testing the responsiveness it spilled out of the container and the grid did not resize as it was supposed to. I tried putting making it span across two columns but this was also ineffective. I eventually removed it from the grid entirely and placed it underneath. 
-
-![Timetable error](/assets/images/readme-images/contact-page-error-1.png)
-
-
-### After Deployment
-
-When I deployed the project to Github Pages the background images disappeared. They were still visible locally, and all the other images were working so I knew there must be an issue with the CSS file. I looked on a number of forums where others had had the same issue and dicovered it was an issue with the filepath. Github Pages was not recognising the URL so I tweaked it a few times until the images appeared.
-
-![Deployment error](/assets/images/readme-images/deployment-error.png)
-
-## Bugs Unresolved
-
-When dropping down to a small screen the timetable heading does not sit directly above the timetable. I cannot find the reason for this, neither the timetable nor the heading seem to have any padding or margin set that would cause it to behave this way so this has remained unresolved.
-
-![Unresolved timetable heading error](/assets/images/readme-images/timetable-unresolved.png)
-
 ## Testing
 
 The website has been tested on the following devices:
@@ -291,7 +212,7 @@ The website has been tested on the following devices:
 * Iphone 14
 * Ipad 7th Gen
 
-All the testing documentation can be found [here](/testing.md).
+All the testing documentation can be found [here](/TESTING.md).
 
 ## Technologies Used
 
