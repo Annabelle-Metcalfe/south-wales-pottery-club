@@ -45,6 +45,18 @@ The outcome of this project will target consumers appropriately and add value to
 
 Please see details of the competitor research conducted [here](/competitor-review.md).
 
+### User Stories
+
+* Charles is looking for a new hobby and is considering trying a pottery class so would like to find out if there are any in his area.
+
+* Emma is looking for new activities for her children and would like to find out class timetables.
+
+* Bronwen has been doing some pottery for some time and is looking for a new studio space, she would like to enquire about long term membership.
+
+* Michelle is looking for a unique experience gift and would like some more information on how to book.
+
+* Graham was referred by the local mental health team and is anxious about joining so would like to see photos of the studio before enquiring.
+
 ### Business Goals
 
 * Create an online presence for the business
@@ -61,18 +73,6 @@ Please see details of the competitor research conducted [here](/competitor-revie
 * View the site on mobile devices
 * Follow the business on social media
 
-### User Stories
-
-* Charles is looking for a new hobby and is considering trying a pottery class so would like to find out if there are any in his area.
-
-* Emma is looking for new activities for her children and would like to find out class timetables.
-
-* Bronwen has been doing some pottery for some time and is looking for a new studio space, she would like to enquire about long term membership.
-
-* Michelle is looking for a unique experience gift and would like some more information on how to book.
-
-* Graham was referred by the local mental health team and is anxious about joining so would like to see photos of the studio before enquiring.
-
 ## UX - Scope
 
 ### Limitations Identified 
@@ -85,8 +85,8 @@ successfully impliment CSS grids for layouts and media queries to enable respons
 ### Current Phase
 
 * Build a functioning website to create an online presence for the business 
-* Present different class types and information on what they are for
-* Provide a means of contacting the business and a timetable 
+* Present different class types and a description on what they are 
+* Provide a means of contacting the business and a class timetable 
 * Showcase a gallery of photos to demonstrate how the studio might look
 
 ## UX - Structure
