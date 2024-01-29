@@ -12,7 +12,7 @@ body {
 /*Responsive background images with Bootstrap 5 tutorial-------------------*/
 
 .hero-image-main {
-    background-image: url(../images/background-image.jpg);
+    background-image: url(../images/main/background-image.jpg);
     background-size: cover;
     min-height: 70vh;
     position: relative;
@@ -22,7 +22,7 @@ body {
 }
 
 .hero-image-classes {
-    background-image: url(../images/studio-class-compressed.jpg);
+    background-image: url(../images/main/studio-class-compressed.jpg);
     background-size: cover;
     min-height: 70vh;
     position: relative;
@@ -32,7 +32,7 @@ body {
 }
 
 .hero-image-contact {
-    background-image: url(../images/cactus.jpg);
+    background-image: url(../images/main/cactus.jpg);
     background-size: cover;
     min-height: 70vh;
     position: relative;
