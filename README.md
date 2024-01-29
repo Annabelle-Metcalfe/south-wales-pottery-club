@@ -217,20 +217,33 @@ The website has been tested on the following devices:
 * Iphone 14
 * Ipad 7th Gen
 
+The following browsers were used to test the site: 
+* Google Chrome
+* Microsoft Edge
+* Safari
+* Firefox
+
 All the testing documentation can be found [here](/TESTING.md).
 
 ## Technologies Used
 
-* HTML
-* CSS
-* Git
-* Github
-* Codeanywhere/VS code/Gitpod
-* Bootstrap
-* Balsamiq
-* Google Fonts
-* Font Awesome
-* GIMP
+### Languages 
+
+* HTML and CSS
+
+### Libraries, Frameworks and Programs
+
+* Git - for version control
+* Github - to host the repository for this site
+* Codeanywhere - the site was initially set up on Codeanywhere before moving to another IDE
+* Gitpod/VS Code - the IDE used to build the site
+* Bootstrap - to provide the responsive navbar
+* Balsamiq - for the first draft wireframes
+* Whimsical - for the revised wireframes
+* Google Fonts - to import the font used in the design
+* Font Awesome - to provide the iconography for the site
+* Canva - to make adjustments to images
+* Google Developer Tools - to check the responsiveness of the site and troubleshoot bugs
 
 ## Deployment
 
