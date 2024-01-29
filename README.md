@@ -1,6 +1,6 @@
 # South Wales Pottery Club
 
-This is the website for South Wales Pottery Club, a hypothetical business in development. The site is the outcome of the Code Institute's milestone project one and designed primarily using html & CSS. Please find a link to the deployed project here:
+This is the website for South Wales Pottery Club, a hypothetical business in development. The site is the outcome of Code Institute's Milestone Project One and designed primarily using HTML & CSS. Please find a link to the deployed project here:
 
 [South Wales Pottery Club](https://annabelle-metcalfe.github.io/south-wales-pottery-club/index.html)
 
@@ -31,9 +31,10 @@ This is the website for South Wales Pottery Club, a hypothetical business in dev
 - [Acknowledgements](#acknowledgements)
 
 ## UX - Strategy 
+
 ### Project Goals
 
-The goal of this project is to create a static user-centric website for an up and coming pottery class business in South Wales. The business has not yet begun trading so at this time they are looking to establish an online presence ahead of their launch. To achieve this, the project will evaluate similar businesses and impliment effective UX principles. The site will be cleanly presented, easy to navigate, encourage enquires through clickable links and viewable on all devices.
+The goal of this project is to create a static user-centric website for an up and coming pottery class business in South Wales. The business has not yet begun trading so at this time they are looking to establish an online presence ahead of their launch. The project will evaluate similar businesses to identify key features for a pottery class website and impliment effective UX principles in the design of a unique web application. The site will be cleanly presented, easy to navigate and viewable on all devices.
 
 ### Competitor Review
 
