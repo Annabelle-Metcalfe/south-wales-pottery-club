@@ -177,7 +177,7 @@ I added testimonials to the bottom of the home page as it made sense from a UX p
 
 ### Classes Page
 
-The classes page contains six key class types identified through competitor review. Each class has a relevant image and a short description. I used images which promote an emotional response such as people working together as this would help users get a feel for the atmosphere at the studio. At the bottom of this page there is a link to the contact page to encourage user engagement. 
+The classes page contains six key class types identified through competitor review. Each class has a relevant image and a short description. I used images which promote an emotional response such as people working together as this helps users get a feel for the atmosphere at the studio. At the bottom of this page there is a link to the contact page to encourage user engagement. 
 
 ![Class page features](/assets/images/readme-images/class-page-1.png)
 ![Class page features](/assets/images/readme-images/class-page-2.png)
@@ -185,7 +185,7 @@ The classes page contains six key class types identified through competitor revi
 
 ### Gallery Page
 
-This page contains a static gallery built with CSS grids. I did not include a hero image or title on this page as it seemed unneccessary and would interfere with the intended UX of the page. Images were again chosen based on their emotiveness, encouraging potential customers to join.
+This page contains a static gallery built with CSS grids. I did not include a hero image or title on this page as it seemed unneccessary and would interfere with the intended UX of the page. Images were again chosen based on their emotiveness, encouraging potential customers to join or enquire.
 
 ![Gallery page features](/assets/images/readme-images/gallery-page-1.png)
 ![Gallery page features](/assets/images/readme-images/gallery-page-2.png)
@@ -193,7 +193,7 @@ This page contains a static gallery built with CSS grids. I did not include a he
 
 ### Contact Page
 
-The contact page features all the relevant information a user might need to get in touch with the business and find the studio. There is a contact form, address, phone number, email address, google map and a timetable.
+The contact page features all the relevant information a user might need to get in touch with the business and find the studio. There is a contact form, address, phone number, email address, google map and a timetable. Aria-labels have been applied where appropriate to ensure accessibility.
 
 ![Contact page features](/assets/images/readme-images/contact-page-1.png)
 ![Contact page features](/assets/images/readme-images/contact-page-2.png)
@@ -224,8 +224,6 @@ The website has been tested on the following devices:
 The following browsers were used to test the site: 
 * Google Chrome
 * Microsoft Edge
-* Safari
-* Firefox
 
 All the testing documentation can be found [here](/TESTING.md).
 
@@ -323,7 +321,7 @@ Many thanks to all the creators of the free stock images used to create this web
 
 ### Code
 
-Further thanks and deep gratitude to the creators of the extremely informative tutorials which helped to build this site. Also to the creators of Bootstrap for providing the framework for the Navbar used in this site. Links to these resources can be found here: <br>
+Further thanks to the creators of the extremely informative tutorials which helped to build this site. Also to the creators of Bootstrap for providing the framework for the Navbar used in this site. Links to these resources can be found here: <br>
 
 [Rounded corners tutorial](https://unused-css.com/blog/css-rounded-table-corners/#:~:text=If%20you%20are%20only%20rounding,done%20with%20a%20box%2Dshadow%20.)
 
